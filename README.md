@@ -1,4 +1,7 @@
-# Awesome Rust lint badge build badge Track Awesome List
+# Awesome Rust
+
+This repository is a clone of [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) but with stars.
+All repositories are sorted by star count. Stars are updated every day automatically.
 
 ## Applications
 
