@@ -3,6 +3,115 @@
 This repository is a clone of [Awesome Rust](https://github.com/rust-unofficial/awesome-rust) but with stars.
 All repositories are sorted by star count. Stars are updated every day automatically.
 
+## Table of contents
+
+- [Applications](#applications)
+  - [Audio and Music](#audio-and-music)
+  - [Blockchain](#blockchain)
+  - [Database](#database)
+  - [Embedded](#embedded)
+  - [Emulators](#emulators)
+  - [File manager](#file-manager)
+  - [Finance](#finance)
+  - [Games](#games)
+  - [Graphics](#graphics)
+  - [Image processing](#image-processing)
+  - [Industrial automation](#industrial-automation)
+  - [Message Queue](#message-queue)
+  - [MLOps](#mlops)
+  - [Observability](#observability)
+  - [Operating systems](#operating-systems)
+  - [Package Managers](#package-managers)
+  - [Payments](#payments)
+  - [Productivity](#productivity)
+  - [Routing protocols](#routing-protocols)
+  - [Security tools](#security-tools)
+  - [Social networks](#social-networks)
+  - [System tools](#system-tools)
+  - [Task scheduling](#task-scheduling)
+  - [Text editors](#text-editors)
+  - [Text processing](#text-processing)
+  - [Utilities](#utilities)
+  - [Video](#video)
+  - [Virtualization](#virtualization)
+  - [Web](#web)
+  - [Web Servers](#web-servers)
+  - [Workflow Automation](#workflow-automation)
+- [Development tools](#development-tools)
+  - [Build system](#build-system)
+  - [Debugging](#debugging)
+  - [Deployment](#deployment)
+  - [Embedded](#embedded-1)
+  - [FFI](#ffi)
+  - [Formatters](#formatters)
+  - [IDEs](#ides)
+  - [Profiling](#profiling)
+  - [Services](#services)
+  - [Static analysis](#static-analysis)
+  - [Testing](#testing)
+  - [Transpiling](#transpiling)
+- [Libraries](#libraries)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Astronomy](#astronomy)
+  - [Asynchronous](#asynchronous)
+  - [Audio and Music](#audio-and-music-1)
+  - [Authentication](#authentication)
+  - [Automotive](#automotive)
+  - [Bioinformatics](#bioinformatics)
+  - [Caching](#caching)
+  - [Cloud](#cloud)
+  - [Command-line](#command-line)
+  - [Compression](#compression)
+  - [Computation](#computation)
+  - [Concurrency](#concurrency)
+  - [Configuration](#configuration)
+  - [Cryptography](#cryptography)
+  - [Data processing](#data-processing)
+  - [Data streaming](#data-streaming)
+  - [Data structures](#data-structures)
+  - [Data visualization](#data-visualization)
+  - [Database](#database-1)
+  - [Date and time](#date-and-time)
+  - [Distributed systems](#distributed-systems)
+  - [Domain driven design](#domain-driven-design)
+  - [eBPF](#ebpf)
+  - [Email](#email)
+  - [Encoding](#encoding)
+  - [Filesystem](#filesystem)
+  - [Finance](#finance-1)
+  - [Functional Programming](#functional-programming)
+  - [Game development](#game-development)
+  - [Geospatial](#geospatial)
+  - [Graph algorithms](#graph-algorithms)
+  - [Graphics](#graphics-1)
+  - [GUI](#gui)
+  - [Image processing](#image-processing-1)
+  - [Language specification](#language-specification)
+  - [Licensing](#licensing)
+  - [Logging](#logging)
+  - [Macro](#macro)
+  - [Markup language](#markup-language)
+  - [Mobile](#mobile)
+  - [Network programming](#network-programming)
+  - [Parsing](#parsing)
+  - [Peripherals](#peripherals)
+  - [Platform specific](#platform-specific)
+  - [Reverse engineering](#reverse-engineering)
+  - [Scripting](#scripting)
+  - [Simulation](#simulation)
+  - [Social networks](#social-networks-1)
+  - [System](#system)
+  - [Task scheduling](#task-scheduling-1)
+  - [Template engine](#template-engine)
+  - [Text processing](#text-processing-1)
+  - [Text search](#text-search)
+  - [Unsafe](#unsafe)
+  - [Video](#video-1)
+  - [Virtualization](#virtualization-1)
+  - [Web programming](#web-programming)
+- [Registries](#registries)
+- [Resources](#resources)
+
 ## Applications
 
 | Stars | Name | Description |
@@ -60,7 +169,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [MaidSafe](https://github.com/maidsafe) | A decentralized platform. |
 | - | [Pijul](https://pijul.org) | A patch-based distributed version control system |
 
-## Audio and Music
+### Audio and Music
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -80,7 +189,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 79 | [tunein-cli](https://github.com/tsirysndr/tunein-cli) | Browse and listen to thousands of radio stations across the globe right from your terminal CI |
 | 54 | [OpenMeters](https://github.com/httpsworldview/openmeters) | Fast, simple, and professional audio metering/visualization for Linux written in Rust. |
 
-## Blockchain
+### Blockchain
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -129,7 +238,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 41 | [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo) | Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm. |
 | 35 | [hdwallet](https://github.com/jjyr/hdwallet) | [hdwallet] - BIP-32 HD wallet related key derivation utilities. |
 
-## Database
+### Database
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -180,14 +289,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [indradb](https://crates.io/crates/indradb) | Graph database |
 | - | [sled](https://crates.io/crates/sled) | A (beta) modern embedded database Build Status |
 
-## Embedded
+### Embedded
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 1538 | [uefi-rs](https://github.com/rust-osdev/uefi-rs) | Rusty wrapper for the Unified Extensible Firmware Interface. This crate makes it easy to develop Rust software that leverages safe, convenient, and performant abstractions for UEFI functionality. |
 | 1421 | [rmk](https://github.com/haobogu/rmk) | A feature-rich keyboard firmware. |
 
-## Emulators
+### Emulators
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -208,7 +317,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 118 | [mohanson/i8080](https://github.com/mohanson/i8080) |  |
 | 82 | [DirPlayer](https://github.com/igorlira/dirplayer-rs) |  |
 
-## File manager
+### File manager
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -218,7 +327,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 3655 | [joshuto](https://github.com/kamiyaa/joshuto) | ranger-like terminal file manager |
 | 182 | [FileSSH](https://github.com/JayanAXHF/FileSSH) | A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more! crates.io |
 
-## Finance
+### Finance
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -226,7 +335,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 120 | [tackler](https://github.com/tackler-ng/tackler) | [tackler] - Fast, reliable bookkeeping engine with native GIT SCM support for plain text accounting CI Badge |
 | 106 | [klirr](https://github.com/Sajjon/klirr) | [klirr] - Zero-maintenance and smart FOSS generating beautiful invoices for services and expenses. |
 
-## Games
+### Games
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -256,7 +365,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [ttyperacer/terminal-typeracer](https://gitlab.com/ttyperacer/terminal-typeracer) | Single player typing test game written for the terminal |
 | - | [Veloren](https://gitlab.com/veloren/veloren) | An open world, open source multiplayer voxel RPG game currently in alpha development build badge |
 
-## Graphics
+### Graphics
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -272,21 +381,21 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 90 | [KaminariOS/rustracer](https://github.com/KaminariOS/rustracer) | A PBR glTF 2.0 renderer based on Vulkan ray-tracing. |
 | - | [turnage/valora](https://crates.io/crates/valora) | A library for generative fine art |
 
-## Image processing
+### Image processing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 3675 | [oxipng](https://github.com/oxipng/oxipng) | [oxipng] - Multithreaded PNG optimizer written in Rust. Build Status Version |
 | 705 | [Imager](https://github.com/imager-io/imager) | Automated image optimization. |
 
-## Industrial automation
+### Industrial automation
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 564 | [locka99/opcua](https://github.com/locka99/opcua) | A OPC UA library. |
 | 518 | [slowtec/tokio-modbus](https://github.com/slowtec/tokio-modbus) | A tokio-based modbus library. |
 
-## Message Queue
+### Message Queue
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -294,13 +403,13 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1360 | [Rocketmq-Rust](https://github.com/mxsm/rocketmq-rust) | 🚀Apache RocketMQ build in Rust🦀. Faster, safer, and with lower memory usage. |
 | 847 | [Rmqtt](https://github.com/rmqtt/rmqtt) | MQTT Server/MQTT Broker — Scalable distributed MQTT message broker for IoT in the 5G era. |
 
-## MLOps
+### MLOps
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 10733 | [TensorZero](https://github.com/tensorzero/tensorzero) | data & learning flywheel for LLMs that unifies inference, observability, optimization, and experimentation TensorZero Build Status |
 
-## Observability
+### Observability
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -312,7 +421,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 141 | [MegaAntiCheat/client-backend](https://github.com/MegaAntiCheat/client-backend) | The client app for MAC. |
 | - | [OpenTelemetry](https://crates.io/crates/opentelemetry) | OpenTelemetry provides a single set of APIs, libraries, agents, and collector services to capture distributed traces and metrics from your application. You can analyze them using Prometheus, Jaeger, and other observability tools. GitHub Actions CI |
 
-## Operating systems
+### Operating systems
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -327,20 +436,20 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 70 | [adamperkowski/highlightos](https://github.com/adamperkowski/highlightos) | x86_64 OS kernel written in Rust & Assembly. |
 | - | [redox-os/redox](https://gitlab.redox-os.org/redox-os/redox) | A Unix-like general-purpose microkernel-based operating system with a focus on security, stability, performance, correctness, simplicity and pragmatism that aims to be a complete alternative for Linux and BSD. |
 
-## Package Managers
+### Package Managers
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 322 | [helsing-ai/buffrs](https://github.com/helsing-ai/buffrs) | [buffrs] - A modern package manager for protocol buffers and gRPC architectures. |
 | - | [rebos](https://crates.io/crates/rebos) | A declarative way to automate package management on any linux distro crate |
 
-## Payments
+### Payments
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 39305 | [hyperswitch](https://github.com/juspay/hyperswitch) | An open source payments orchestrator that lets you connect with multiple payment processors and route payment traffic effortlessly, all with a single API integration GitHub last commit |
 
-## Productivity
+### Productivity
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -361,14 +470,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 12 | [graves/awful_aj](https://github.com/graves/awful_aj) | [awful_aj] - A CLI for working with OpenAI-compatible APIs, YAML templates for prompt engineering and a built in Vector Database for persistent memories. |
 | - | [eureka](https://crates.io/crates/eureka) | A CLI tool to input and store your ideas without leaving the terminal |
 
-## Routing protocols
+### Routing protocols
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 550 | [RustyBGP](https://github.com/osrg/rustybgp) | BGP |
 | 444 | [Holo](https://github.com/holo-routing/holo) | Holo is a suite of routing protocols designed to support high-scale and automation-driven networks |
 
-## Security tools
+### Security tools
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -403,14 +512,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [cargo-deny](https://crates.io/crates/cargo-deny) | Cargo plugin to help you manage large dependency graphs |
 | - | [reaction](https://framagit.org/ppom/reaction) | Scan logs and take action: an alternative to fail2ban |
 
-## Social networks
+### Social networks
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 876 | [Rustodon](https://github.com/rustodon/rustodon) |  |
 | 785 | [tgt](https://github.com/FedericoBruzzone/tgt) |  |
 
-## System tools
+### System tools
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -484,13 +593,13 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 51 | [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments) | WebAssembly Component Model based REPL with sandboxed multi-language plugin system Crates.io |
 | - | [fselect](https://crates.io/crates/fselect) | Find files with SQL-like queries |
 
-## Task scheduling
+### Task scheduling
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 80 | [tasklet](https://github.com/stav121/tasklet) | [tasklet] - A task scheduling library written in Rust Build Status |
 
-## Text editors
+### Text editors
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -505,7 +614,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [amp](https://amp.rs) | Inspired by Vi/Vim. |
 | - | [vamolessa/pepper](https://git.sr.ht/~lessa/pepper) | [pepper] - An opinionated modal editor to simplify code editing from the terminal |
 
-## Text processing
+### Text processing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -528,7 +637,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [sd](https://crates.io/crates/sd) | Intuitive find & replace CLI |
 | - | [xsv](https://crates.io/crates/xsv) | A fast CSV command line tool (slicing, indexing, selecting, searching, sampling, etc.) |
 
-## Utilities
+### Utilities
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -569,7 +678,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 83 | [dcapal](https://github.com/dcapal/dcapal) | DcaPal is a free, no registration, online tool to help you keep your portfolio balanced with dollar cost averaging investments. |
 | 12 | [Tail Tales](https://github.com/davidmoreno/tailtales) | A TUI log viewer with logfmt support. Crate |
 
-## Video
+### Video
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -579,7 +688,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 308 | [dertuxmalwieder/yaydl](https://github.com/dertuxmalwieder/yaydl) | [yaydl] - A simple video downloader |
 | 146 | [vidmerger](https://github.com/TGotwig/vidmerger) | Merge video & audio files via CLI |
 
-## Virtualization
+### Virtualization
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -588,7 +697,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 7147 | [youki-dev/youki](https://github.com/youki-dev/youki) | A container runtime build badge |
 | 1894 | [tailhook/vagga](https://github.com/tailhook/vagga) | A containerization tool without daemons |
 
-## Web
+### Web
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -601,7 +710,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 225 | [importantimport/hatsu](https://github.com/importantimport/hatsu) | 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. release |
 | 194 | [MASQ-Project/Node](https://github.com/MASQ-Project/Node) | MASQ Node software provides a decentralized mesh-network of nodes for global users to access normal internet content - next evolution of tech beyond Tor & VPN build badge |
 
-## Web Servers
+### Web Servers
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -620,7 +729,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 142 | [ronanyeah/rust-hasura](https://github.com/ronanyeah/rust-hasura) | A demonstration of how a GraphQL server can be used as a remote schema with Hasura Rust |
 | 41 | [Mini RPS](https://github.com/marcodpt/minirps) | Mini reverse proxy server, HTTPS, CORS, static file hosting and template engine (minijinja) crates.io |
 
-## Workflow Automation
+### Workflow Automation
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -664,7 +773,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [delta](https://crates.io/crates/git-delta) | A syntax-highlighter for git and diff outputbuild badge |
 | - | [VT Code](https://crates.io/crates/vtcode) | Terminal coding agent that pairs a modern TUI with deep, semantic code understanding powered by tree-sitter and ast-grep. |
 
-## Build system
+### Build system
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -677,7 +786,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [Cargo](https://crates.io/) | the Rust package manager |
 | - | [Nix](https://nixos.org/) |  |
 
-## Debugging
+### Debugging
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -686,7 +795,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 428 | [kxxt/tracexec](https://github.com/kxxt/tracexec) | [tracexec] - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers. |
 | - | [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) |  |
 
-## Deployment
+### Deployment
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -694,7 +803,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1252 | [release-plz](https://github.com/release-plz/release-plz) | [release-plz] - Release crates from CI, with changelog generation and semver check. build badge |
 | 526 | [emk/heroku-buildpack-rust](https://github.com/emk/heroku-buildpack-rust) |  |
 
-## Embedded
+### Embedded
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -705,7 +814,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 67 | [Vaishnav-Sabari-Girish/ComChan](https://github.com/Vaishnav-Sabari-Girish/ComChan) |  |
 | - | [esp-rs](https://github.com/esp-rs) |  |
 
-## FFI
+### FFI
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -724,7 +833,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 160 | [jcmoyer/rust-lua53](https://github.com/jcmoyer/rust-lua53) |  |
 | 76 | [bennettanderson/rjni](https://github.com/benanders/rjni) |  |
 
-## Formatters
+### Formatters
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -732,7 +841,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 3723 | [dprint](https://github.com/dprint/dprint) | A pluggable and configurable code formatting platform build badge |
 | 199 | [Prettier Rust](https://github.com/jinxdash/prettier-plugin-rust) | An opinionated Rust code formatter that autofixes bad syntax (Prettier community plugin) |
 
-## IDEs
+### IDEs
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -750,7 +859,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [Vim](https://vim.sourceforge.io/) | the ubiquitous text editor |
 | - | [Visual Studio Code](https://code.visualstudio.com/) |  |
 
-## Profiling
+### Profiling
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -764,7 +873,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 729 | [llogiq/flame](https://github.com/llogiq/flame) |  |
 | 83 | [ellisonch/rust-stopwatch](https://github.com/ellisonch/rust-stopwatch) | A stopwatch library |
 
-## Services
+### Services
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -772,7 +881,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 482 | [deps.rs](https://github.com/deps-rs/deps.rs) | Detect outdated or insecure dependencies |
 | - | [docs.rs](https://docs.rs) | Automatic documentation generation of crates |
 
-## Static analysis
+### Static analysis
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -781,7 +890,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 131 | [RAPx](https://github.com/Artisan-Lab/RAPx) | A platform that helps Rust programmers develop and use advanced static analysis tools beyond those provided by the rustc compiler. |
 | - | [static_assertions](https://crates.io/crates/static_assertions) | Compile-time assertions to ensure that invariants are met |
 
-## Testing
+### Testing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -793,7 +902,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [googletest-json-serde](https://crates.io/crates/googletest-json-serde) |  |
 | - | [tarpaulin](https://crates.io/crates/cargo-tarpaulin) |  |
 
-## Transpiling
+### Transpiling
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -808,7 +917,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | ---: | --- | --- |
 | 227 | [perf-monitor-rs](https://github.com/larksuite/perf-monitor-rs) | A toolkit designed to be a foundation for applications to monitor their performance. crates.io |
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -839,7 +948,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 43 | [Mottl/lightgb3-rs](https://github.com/Mottl/lightgbm3-rs) | Bindings for LightGBM Crates.io build |
 | 6 | [ave-sergeev/tictonix](https://github.com/Ave-Sergeev/Tictonix) | [tictonix] - A library that provides the ability to convert tokens into embeddings, as well as to encode their positions. |
 
-## Astronomy
+### Astronomy
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -848,7 +957,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 51 | [flosse/rust-sun](https://github.com/flosse/rust-sun) | [sun] - A rust port of the JS library suncalc |
 | - | [fitsio](https://crates.io/crates/fitsio) | fits interface library wrapping cfitsio |
 
-## Asynchronous
+### Asynchronous
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -865,7 +974,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 27 | [igumnoff/gabriel2](https://github.com/igumnoff/gabriel2) | [gabriel2] - Gabriel2: An actor-model library based on Tokio |
 | - | [async-std](https://async.rs/) | [async-std] - Async version of the Rust standard library CI |
 
-## Audio and Music
+### Audio and Music
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -879,7 +988,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [hound](https://crates.io/crates/hound) | A WAV encoding and decoding library |
 | - | [RustAudio](https://github.com/RustAudio) |  |
 
-## Authentication
+### Authentication
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -890,7 +999,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 236 | [yup-oauth2](https://github.com/dermesser/yup-oauth2) | An oauth2 client implementation providing the Device, Installed and Service Account flows |
 | 67 | [sgrust01/jwtvault](https://github.com/sgrust01/jwtvault) | Async library to manage and orchestrate JWT workflow |
 
-## Automotive
+### Automotive
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -900,14 +1009,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 18 | [Sensirion/lin-bus](https://github.com/Sensirion/lin-bus-rs) | [lin-bus] - LIN bus driver traits and protocol implementation build badge |
 | 8 | [marcelbuesing/tokio-socketcan-bcm](https://github.com/marcelbuesing/tokio-socketcan-bcm) | [tokio-socketcan-bcm] - Linux SocketCAN BCM support for tokio |
 
-## Bioinformatics
+### Bioinformatics
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 134 | [polars-bio](https://github.com/biodatageeks/polars-bio) | Blazing-Fast Bioinformatic Operations on Python DataFrames PyPI - Version |
 | - | [Rust-Bio](https://github.com/rust-bio) | bioinformatics libraries. |
 
-## Caching
+### Caching
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -919,7 +1028,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 145 | [aisk/rust-memcache](https://github.com/aisk/rust-memcache) | Memcached client library |
 | 92 | [06chaynes/http-cache](https://github.com/06chaynes/http-cache) | [http-cache] - A caching middleware that follows HTTP caching rules build badge |
 
-## Cloud
+### Cloud
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -928,7 +1037,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 350 | [Convey](https://github.com/bparli/convey) |  |
 | - | [aws](https://crates.io/keywords/aws) | [aws] |
 
-## Command-line
+### Command-line
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -943,7 +1052,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 222 | [mgrachev/update-informer](https://github.com/mgrachev/update-informer) |  |
 | 57 | [hashmismatch/terminal_cli.rs](https://github.com/hashmismatch/terminal_cli.rs) |  |
 
-## Compression
+### Compression
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -958,7 +1067,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [7z](https://7-zip.org/7z.html) |  |
 | - | [Brotli](https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html) |  |
 
-## Computation
+### Computation
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -974,7 +1083,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [GSL](http://www.gnu.org/software/gsl/) |  |
 | - | [LAPACK](https://en.wikipedia.org/wiki/LAPACK) |  |
 
-## Concurrency
+### Concurrency
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -986,7 +1095,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 6 | [NikitaSmithTheOne/rate-limiters-rs](https://github.com/NikitaSmithTheOne/rate-limiters-rs) | [rate-limiters] - Rust library for rate limiting (Leaky Bucket, Token Bucket, Fixed/Sliding Window) |
 | - | [orx-parallel](https://crates.io/crates/orx-parallel) | High performance, configurable and expressive parallel computation library. |
 
-## Configuration
+### Configuration
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -997,7 +1106,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 49 | [leptonyu/cfg-rs](https://github.com/leptonyu/cfg-rs) | [cfg-rs] - A Configuration Library for Rust Applications. |
 | 19 | [andoriyu/uclicious](https://github.com/andoriyu/uclicious) | [uclicious] - libUCL based feature-rich configuration library. CircleCI |
 
-## Cryptography
+### Cryptography
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1031,7 +1140,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 8 | [sorairolake/scryptenc-rs](https://github.com/sorairolake/scryptenc-rs) | [scryptenc] - An implementation of the scrypt encrypted data format. CI |
 | 0 | [kn0sys/ecc-rs](https://github.com/kn0sys/ecc-rs) | Intuitive library for elliptic curve cryptography tutorials Crates.io Version |
 
-## Data processing
+### Data processing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1047,7 +1156,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 145 | [kernelmachine/utah](https://github.com/kernelmachine/utah) | Dataframe structure and operations |
 | 48 | [GoPlasmatic/datalogic-rs](https://github.com/GoPlasmatic/datalogic-rs) | [datalogic-rs] - High-performance, type-safe JSONLogic evaluation engine in Rust, ideal for business rules and dynamic filtering. |
 
-## Data streaming
+### Data streaming
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1057,7 +1166,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1236 | [arkflow-rs/arkflow](https://github.com/arkflow-rs/arkflow) | High-performance Rust stream processing engine CI |
 | 100 | [wingfoil](https://github.com/wingfoil-io/wingfoil) | Graph based stream processing framework CI |
 
-## Data structures
+### Data structures
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1078,7 +1187,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [contain-rs](https://github.com/contain-rs) | Extension of Rust's std::collections |
 | - | [enum-map](https://codeberg.org/sugar700/enum-map) | [enum-map] - An optimized map implementation for enums using an array to store values. |
 
-## Data visualization
+### Data visualization
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1092,7 +1201,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 122 | [djduque/pgfplots](https://github.com/djduque/pgfplots) | [pgfplots] - Library to generate publication-quality figures. build |
 | 84 | [plotpy](https://github.com/cpmech/plotpy) | [plotpy] - Rust plotting library using Python (Matplotlib) |
 
-## Database
+### Database
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1103,7 +1212,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [sql](https://crates.io/keywords/sql) | [sql] |
 | - | [VennDB](https://venndb.plabayo.tech/) | [venndb] - An append-only in-memory database in Rust for rows queried using bit (flag) columns. |
 
-## Date and time
+### Date and time
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1114,7 +1223,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 35 | [Mnwa/ms](https://github.com/Mnwa/ms) | [ms-converter] - it's a library for converting human-like times to milliseconds build badge |
 | 11 | [sorairolake/nt-time](https://github.com/sorairolake/nt-time) | [nt-time] - A Windows file time library. CI |
 
-## Distributed systems
+### Distributed systems
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1123,20 +1232,20 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 66 | [antimonyproject/antimony](https://github.com/antimonyproject/antimony) |  |
 | 31 | [hyunsik/hdfs-rs](https://github.com/hyunsik/hdfs-rs) |  |
 
-## Domain driven design
+### Domain driven design
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 458 | [serverlesstechnology/cqrs](https://github.com/serverlesstechnology/cqrs) | [cqrs-es] - A framework for CQRS and event sourcing with user guide |
 
-## eBPF
+### eBPF
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 4146 | [aya/aya-rs](https://github.com/aya-rs/aya) | Built with a focus on developer experience and operability. |
 | 938 | [libbpf/libbpf-rs](https://github.com/libbpf/libbpf-rs) | A minimal and opinionated eBPF tooling. |
 
-## Email
+### Email
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1154,7 +1263,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 111 | [stalwartlabs/mail-auth](https://github.com/stalwartlabs/mail-auth) | [mail-auth] - DKIM, ARC, SPF and DMARC message authentication library build badge |
 | 45 | [duesee/imap-codec](https://github.com/duesee/imap-codec) | [imap-codec] - Rock-solid and complete codec for IMAP Build & Test |
 
-## Encoding
+### Encoding
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1184,14 +1293,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [FlatBuffers](https://flatbuffers.dev/) |  |
 | - | [serde_cbor](https://crates.io/crates/serde_cbor) |  |
 
-## Filesystem
+### Filesystem
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 1382 | [Stebalien/tempfile](https://github.com/Stebalien/tempfile) |  |
 | 536 | [Camino](https://github.com/camino-rs/camino) |  |
 
-## Finance
+### Finance
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1200,13 +1309,13 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 180 | [d-e-s-o/apca](https://github.com/d-e-s-o/apca) | [apca] - Opinionated and comprehensive bindings to the Alpaca API for stock trading and more. GitHub Workflow Status |
 | 115 | [stochastic-rs](https://github.com/rust-dd/stochastic-rs) | [stochastic-rs] - High-performance data generation library for stochastic process with quant finance tools. GitHub Workflow Status |
 
-## Functional Programming
+### Functional Programming
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 1405 | [JasonShin/fp-core.rs](https://github.com/JasonShin/fp-core.rs) |  |
 
-## Game development
+### Game development
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1228,7 +1337,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [Raylib](https://www.raylib.com/) |  |
 | - | [SDL](https://www.libsdl.org/) | [sdl] |
 
-## Geospatial
+### Geospatial
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1239,14 +1348,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 14 | [vlopes11/geomorph](https://github.com/vlopes11/geomorph) | [geomorph] - conversion between UTM, LatLon and MGRS coordinates |
 | - | [Georust](https://github.com/georust) | geospatial tools and libraries written |
 
-## Graph algorithms
+### Graph algorithms
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 3690 | [petgraph/petgraph](https://github.com/petgraph/petgraph) | Graph data structure library. graph CI status |
 | 428 | [neo4j-labs/graph](https://github.com/neo4j-labs/graph) | A library for high-performant graph algorithms graph CI status |
 
-## Graphics
+### Graphics
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1257,7 +1366,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [opengl](https://crates.io/keywords/opengl) | [opengl] |
 | - | [Vulkan](https://www.vulkan.org/) | [vulkan] |
 
-## GUI
+### GUI
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1289,7 +1398,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [Qt](https://doc.qt.io) |  |
 | - | [Sciter](https://sciter.com/) |  |
 
-## Image processing
+### Image processing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1302,19 +1411,19 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 103 | [teovoinea/steganography](https://github.com/teovoinea/steganography) | [steganography] - A simple steganography library |
 | 38 | [marekm4/dominant_color](https://github.com/marekm4/dominant_color) | [dominant_color] - Dominant color extractor build badge |
 
-## Language specification
+### Language specification
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 284 | [shnewto/bnf](https://github.com/shnewto/bnf) | A library for parsing Backus–Naur form context-free grammars. |
 
-## Licensing
+### Licensing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 2 | [WyvernIXTL/license-fetcher](https://github.com/WyvernIXTL/license-fetcher) | [license-fetcher] - Fetch licenses of dependencies at build time and embed them into your program. |
 
-## Logging
+### Logging
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1327,7 +1436,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 196 | [fast/logforth](https://github.com/fast/logforth) | A versatile, extensible, and easy-to-use logging framework for Rust applications. It allows you to configure multiple dispatches, filters, and appenders to customize your logging setup according to your needs. |
 | 124 | [donnie4w/tklog](https://github.com/donnie4w/tklog) | lightweight and efficient rust structured log library with support for log levels, file segmentation, compressed archiving. |
 
-## Macro
+### Macro
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1335,14 +1444,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 345 | [mattgathu/cute](https://github.com/mattgathu/cute) |  |
 | 138 | [Linq-in-Rust](https://github.com/StardustDL/Linq-in-Rust) | Macro and methods for C#-LINQ-like expressions. CI |
 
-## Markup language
+### Markup language
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 2423 | [pulldown-cmark/pulldown-cmark](https://github.com/pulldown-cmark/pulldown-cmark) |  |
 | 7 | [insomnimus/tidier](https://github.com/insomnimus/tidier) | [tidier] - A library to format HTML, XHTML and XML documents. build badge |
 
-## Mobile
+### Mobile
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1350,7 +1459,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 251 | [ivnsch/rust_android_ios](https://github.com/ivnsch/rust_android_ios) |  |
 | 173 | [Geal/rust_on_mobile](https://github.com/Geal/rust_on_mobile) |  |
 
-## Network programming
+### Network programming
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1381,7 +1490,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [deboa](https://crates.io/crates/deboa) |  |
 | - | [neachdainn/nng-rs](https://gitlab.com/neachdainn/nng-rs) |  |
 
-## Parsing
+### Parsing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1406,14 +1515,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1 | [slimreaper35/dockerfile-parser-rs](https://github.com/slimreaper35/dockerfile-parser-rs) | [dockerfile-parser-rs] - Dockerfile parsing library and CLI tool |
 | - | [hmeyer/stl_io](https://crates.io/crates/stl_io) | A parser for STL (STereoLithography) files |
 
-## Peripherals
+### Peripherals
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 679 | [serialport/serialport-rs](https://github.com/serialport/serialport-rs) |  |
 | 16 | [alvaroparker/libfprint-rs](https://github.com/alvaroparker/libfprint-rs) |  |
 
-## Platform specific
+### Platform specific
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1423,14 +1532,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 143 | [iddm/thread-priority](https://github.com/iddm/thread-priority/) |  |
 | 59 | [fubarnetes/libjail-rs](https://github.com/fubarnetes/libjail-rs/) |  |
 
-## Reverse engineering
+### Reverse engineering
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 367 | [objdiff](https://github.com/encounter/objdiff) | A local diffing tool for decompilation projects |
 | 233 | [binarly-io/idalib](https://github.com/binarly-io/idalib) | [idalib] - Rust bindings for the IDA SDK, enabling the development of standalone analysis tools using IDA v9.0’s idalib |
 
-## Scripting
+### Scripting
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1450,19 +1559,19 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 72 | [giraffekey/xylo](https://github.com/giraffekey/xylo) | [xylo-lang] - A functional programming language for procedural art. build badge |
 | - | [duckscript](https://crates.io/crates/duckscript) | Simple, extendable and embeddable scripting language. build badge |
 
-## Simulation
+### Simulation
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | - | [nyx-space](https://crates.io/crates/nyx-space) | High fidelity, fast, reliable and validated astrodynamical toolkit library, used for spacecraft mission design and orbit determination Build Status |
 
-## Social networks
+### Social networks
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 71 | [tdilb-rs](https://github.com/FedericoBruzzone/tdlib-rs) |  |
 
-## System
+### System
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1472,14 +1581,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 31 | [sorairolake/sysexits-rs](https://github.com/sorairolake/sysexits-rs) | [sysexits] - The system exit codes as defined by <sysexits.h>. CI |
 | 7 | [navidys/procsys](https://github.com/navidys/procsys) | [procsys] - A library to retrieve system, kernel, and process metrics from the pseudo-filesystems /proc and /sys. |
 
-## Task scheduling
+### Task scheduling
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 332 | [delay-timer](https://github.com/BinChengZhao/delay-timer) | Time-manager of delayed tasks. Like crontab, but asynchronous tasks are possible. Build |
 | 20 | [persistent-scheduler](https://github.com/rustmailer/persistent-scheduler) | [persistent-scheduler] - A high-performance task scheduling system built with Tokio, offering task persistence, repeatable tasks, and Cron-based scheduling for reliable time-based operations. |
 
-## Template engine
+### Template engine
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1487,7 +1596,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 891 | [askama](https://github.com/askama-rs/askama) |  |
 | 215 | [rustache/rustache](https://github.com/rustache/rustache) |  |
 
-## Text processing
+### Text processing
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1507,7 +1616,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 27 | [pwoolcoc/ngrams](https://github.com/pwoolcoc/ngrams) | [ngrams] - Construct n-grams from arbitrary iterators |
 | - | [strsim-rs](https://crates.io/crates/strsim) | String similarity metrics |
 
-## Text search
+### Text search
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1519,20 +1628,20 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 185 | [andylokandy/simsearch-rs](https://github.com/andylokandy/simsearch-rs) | [simsearch] - A simple and lightweight fuzzy search engine that works in memory, searching for similar strings |
 | 77 | [CurrySoftware/perlin](https://github.com/CurrySoftware/perlin) | [perlin] - A lazy, zero-allocation and data-agnostic Information Retrieval library |
 
-## Unsafe
+### Unsafe
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | - | [zerocopy](https://crates.io/crates/zerocopy) | "Zerocopy makes zero-cost memory manipulation effortless. We write unsafe so you don’t have to." |
 
-## Video
+### Video
 
 | Stars | Name | Description |
 | ---: | --- | --- |
 | 503 | [ffmpeg-sidecar](https://github.com/nathanbabcock/ffmpeg-sidecar) | Wrap a standalone FFmpeg binary in an intuitive Iterator interface. Build Status |
 | 166 | [screencapturekit-rs](https://github.com/doom-fish/screencapturekit-rs) | [screencapturekit] - Safe Rust bindings for Apple's ScreenCaptureKit framework for macOS screen/audio capture Build Status |
 
-## Virtualization
+### Virtualization
 
 | Stars | Name | Description |
 | ---: | --- | --- |
@@ -1542,7 +1651,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 66 | [saurvs/hypervisor-rs](https://github.com/saurvs/hypervisor-rs) | Hardware-accelerated virtualization on OS X |
 | - | [chromium/chromiumos/platform/crosvm](https://chromium.googlesource.com/chromiumos/platform/crosvm/) | CrOSVM Enables Chrome OS to run Linux apps inside a fast, secure virtualized environment |
 
-## Web programming
+### Web programming
 
 | Stars | Name | Description |
 | ---: | --- | --- |
