@@ -119,16 +119,16 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 105936 | [denoland/deno](https://github.com/denoland/deno) | A secure JavaScript/TypeScript runtime built with V8 and Tokio | 2026-01-23 |
 | 93785 | [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A cross-platform, modern Clash GUI based on tauri & rust, supporting Windows, macOS, and Linux. | 2026-01-23 |
 | 62091 | [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, GPU enhanced terminal emulator | 2026-01-14 |
-| 50770 | [Typst](https://github.com/typst/typst) [🦀](https://crates.io/crates/typst) | A markup-based typesetting system | 2026-01-23 |
+| 50771 | [Typst](https://github.com/typst/typst) [🦀](https://crates.io/crates/typst) | A markup-based typesetting system | 2026-01-23 |
 | 35125 | [Servo](https://github.com/servo/servo) | A prototype web browser engine | 2026-01-23 |
 | 33182 | [SWC](https://github.com/swc-project/swc) | super-fast TypeScript / JavaScript compiler | 2026-01-23 |
 | 32431 | [Sniffnet](https://github.com/GyulyVGC/sniffnet) [🦀](https://crates.io/crates/sniffnet) | Cross-platform application to monitor your network traffic with ease | 2026-01-07 |
 | 28387 | [zellij](https://github.com/zellij-org/zellij) | A terminal multiplexer (workspace) with batteries included | 2026-01-22 |
-| 23666 | [wezterm](https://github.com/wezterm/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer | 2026-01-17 |
+| 23667 | [wezterm](https://github.com/wezterm/wezterm) | A GPU-accelerated cross-platform terminal emulator and multiplexer | 2026-01-17 |
 | 21031 | [mdBook](https://github.com/rust-lang/mdBook) | A command line utility to create books from markdown files | 2026-01-23 |
 | 20334 | [wasmer](https://github.com/wasmerio/wasmer) | A safe and fast WebAssembly runtime supporting WASI and Emscripten | 2026-01-23 |
 | 13358 | [Edit](https://github.com/microsoft/edit) | A simple editor for simple needs. | 2026-01-23 |
-| 9483 | [EasyTier](https://github.com/EasyTier/EasyTier) [🦀](https://crates.io/crates/easytier) | A simple, full-featured and decentralized mesh VPN with WireGuard support. | 2026-01-22 |
+| 9484 | [EasyTier](https://github.com/EasyTier/EasyTier) [🦀](https://crates.io/crates/easytier) | A simple, full-featured and decentralized mesh VPN with WireGuard support. | 2026-01-22 |
 | 6869 | [cloudflare/boringtun](https://github.com/cloudflare/boringtun) [🦀](https://crates.io/crates/boringtun) | A Userspace WireGuard VPN Implementation | 2026-01-13 |
 | 6836 | [shuttle](https://github.com/shuttle-hq/shuttle) | A serverless platform. | 2025-12-18 |
 | 6323 | [Rio](https://github.com/raphamorim/rio) | A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. | 2026-01-20 |
@@ -173,7 +173,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 10517 | [Spotifyd](https://github.com/Spotifyd/spotifyd) | An open source Spotify client running as a UNIX daemon. | 2026-01-07 |
+| 10518 | [Spotifyd](https://github.com/Spotifyd/spotifyd) | An open source Spotify client running as a UNIX daemon. | 2026-01-07 |
 | 6382 | [ncspot](https://github.com/hrkfdn/ncspot) | Cross-platform ncurses Spotify client, inspired by ncmpc and the likes. | 2026-01-12 |
 | 6130 | [Spotify Player](https://github.com/aome510/spotify-player) | A Spotify player in the terminal with full feature parity. | 2026-01-13 |
 | 2919 | [Glicol](https://github.com/chaosprint/glicol) | Graph-oriented live coding language, for collaborative musicking in browsers. | 2025-01-23 |
@@ -243,29 +243,29 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 30917 | [SurrealDB](https://github.com/surrealdb/surrealdb) | A scalable, distributed, document-graph database | 2026-01-23 |
+| 30918 | [SurrealDB](https://github.com/surrealdb/surrealdb) | A scalable, distributed, document-graph database | 2026-01-23 |
 | 28370 | [Qdrant](https://github.com/qdrant/qdrant) | An open source vector similarity search engine with extended filtering support | 2025-12-24 |
-| 20763 | [Neon](https://github.com/neondatabase/neon) | Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. | 2026-01-15 |
-| 20220 | [RustFS](https://github.com/rustfs/rustfs) [🦀](https://crates.io/crates/rustfs) | [ RustFS ] - 🚀 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | 2026-01-23 |
+| 20764 | [Neon](https://github.com/neondatabase/neon) | Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage. | 2026-01-15 |
+| 20221 | [RustFS](https://github.com/rustfs/rustfs) [🦀](https://crates.io/crates/rustfs) | [ RustFS ] - 🚀 RustFS is an open-source,S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. | 2026-01-23 |
 | 16737 | [Turso](https://github.com/tursodatabase/turso) | Turso Database is an in-process SQL database, compatible with SQLite. | 2026-01-23 |
 | 16483 | [tikv](https://github.com/tikv/tikv) | A distributed KV database in Rust | 2026-01-22 |
-| 9110 | [Databend](https://github.com/databendlabs/databend) | A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture | 2026-01-23 |
+| 9111 | [Databend](https://github.com/databendlabs/databend) | A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture | 2026-01-23 |
 | 8891 | [sled](https://github.com/spacejam/sled) [🦀](https://crates.io/crates/sled) | A (beta) modern embedded database | 2025-11-04 |
 | 8734 | [RisingWaveLabs/RisingWave](https://github.com/RisingWaveLabs/risingwave) | the next-generation streaming database in the cloud | 2026-01-23 |
-| 8602 | [lancedb](https://github.com/lancedb/lancedb) [🦀](https://crates.io/crates/vectordb) | A serverless, low-latency vector database for AI applications | 2026-01-22 |
+| 8603 | [lancedb](https://github.com/lancedb/lancedb) [🦀](https://crates.io/crates/vectordb) | A serverless, low-latency vector database for AI applications | 2026-01-22 |
 | 8223 | [ParadeDB](https://github.com/paradedb/paradedb) | ParadeDB is an Elasticsearch alternative built on Postgres, designed for real-time search and analytics. | 2026-01-23 |
 | 7158 | [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb) | Distributed SQL database, written as a learning project. | 2026-01-13 |
-| 6219 | [Materialize](https://github.com/MaterializeInc/materialize) | Streaming SQL database powered by Timely Dataflow :heavy_dollar_sign: | 2026-01-23 |
+| 6220 | [Materialize](https://github.com/MaterializeInc/materialize) | Streaming SQL database powered by Timely Dataflow :heavy_dollar_sign: | 2026-01-23 |
 | 5919 | [GreptimeDB](https://github.com/grepTimeTeam/greptimedb) | An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. | 2026-01-23 |
 | 5218 | [noria](https://github.com/mit-pdos/noria) [🦀](https://crates.io/crates/noria) | [ noria ] - Dynamically changing, partially-stateful data-flow for web application backends | 2021-10-30 |
-| 4405 | [TrailBase](https://github.com/trailbaseio/trailbase) | A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard | 2026-01-23 |
+| 4409 | [TrailBase](https://github.com/trailbaseio/trailbase) | A fast, lightweight, single-file FireBase alternative with type-safe APIs, built-in V8 JS/ES6/TS engine, auth and admin dashboard | 2026-01-23 |
 | 3830 | [CozoDB](https://github.com/cozodb/cozo) | A transactional, relational database that uses Datalog and focuses on graph data and algorithms. Time-travel-capable, and fast! | 2024-12-04 |
 | 3698 | [USearch](https://github.com/unum-cloud/usearch) [🦀](https://crates.io/crates/usearch) | Similarity Search Engine for Vectors and Strings | 2026-01-06 |
 | 3697 | [HelixDB](https://github.com/HelixDB/helix-db) | A powerful, graph-vector database for intelligent data storage for RAG and AI | 2026-01-19 |
 | 3021 | [GlueSQL](https://github.com/gluesql/gluesql) [🦀](https://crates.io/crates/gluesql) | Rust library for SQL databases that includes a parser (sqlparser-rs), an execution layer, and a variety of storage options, both persistent and non-persistent, all in one package. | 2026-01-11 |
 | 2862 | [SQLSync](https://github.com/orbitinghail/sqlsync) | Multiplayer offline-first SQLite | 2025-11-19 |
 | 2642 | [Skytable](https://github.com/skytable/skytable) | A multi-model NoSQL database | 2025-07-29 |
-| 2587 | [Garage](https://github.com/deuxfleurs-org/garage) [🦀](https://crates.io/crates/garage) | [ garage ] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale. | 2025-06-13 |
+| 2588 | [Garage](https://github.com/deuxfleurs-org/garage) [🦀](https://crates.io/crates/garage) | [ garage ] - S3-compatible distributed object storage service designed for self-hosting at a small-to-medium scale. | 2025-06-13 |
 | 2405 | [indradb](https://github.com/indradb/indradb) [🦀](https://crates.io/crates/indradb) | Graph database | 2025-08-16 |
 | 1816 | [seppo0010/rsedis](https://github.com/seppo0010/rsedis) | A Redis reimplementation. | 2023-06-06 |
 | 1478 | [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) [🦀](https://crates.io/crates/oxigraph) | graph database implementing the SPARQL standard | 2026-01-22 |
@@ -302,7 +302,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 17657 | [Ruffle](https://github.com/ruffle-rs/ruffle) | Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. | 2026-01-22 |
+| 17657 | [Ruffle](https://github.com/ruffle-rs/ruffle) | Ruffle is an Adobe Flash Player emulator. Ruffle targets both the desktop and the web using WebAssembly. | 2026-01-23 |
 | 3478 | [touchHLE](https://github.com/touchHLE/touchHLE) | High-level emulator for iPhone OS apps | 2026-01-23 |
 | 1421 | [mohanson/gameboy](https://github.com/mohanson/gameboy) | Full featured Cross-platform GameBoy emulator. Forever boys!. | 2025-09-25 |
 | 956 | [Gekkio/mooneye-gb](https://github.com/Gekkio/mooneye-gb) | A Game Boy research project and emulator | 2022-05-09 |
@@ -328,8 +328,8 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 31816 | [yazi](https://github.com/sxyazi/yazi) | Blazing fast terminal file manager, based on async I/O. | 2026-01-23 |
-| 12321 | [broot](https://github.com/Canop/broot) [🦀](https://crates.io/crates/broot) | A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading dystroy.org/broot | 2026-01-19 |
+| 31817 | [yazi](https://github.com/sxyazi/yazi) | Blazing fast terminal file manager, based on async I/O. | 2026-01-23 |
+| 12322 | [broot](https://github.com/Canop/broot) [🦀](https://crates.io/crates/broot) | A new way to see and navigate directory trees (get an overview of a directory, even a big one; find a directory then cd to it; never lose track of file hierarchy while you search; manipulate your files, ...), further reading dystroy.org/broot | 2026-01-19 |
 | 4670 | [xplr](https://github.com/sayanarijit/xplr) | A hackable, minimal, fast TUI file explorer | 2025-12-24 |
 | 3663 | [joshuto](https://github.com/kamiyaa/joshuto) | ranger-like terminal file manager | 2025-11-29 |
 | 192 | [FileSSH](https://github.com/JayanAXHF/FileSSH) [🦀](https://crates.io/crates/filessh) | A fast and easy to use TUI to manage files on a remote server, including quick SSH session creation, in-place file editing and more! | 2026-01-13 |
@@ -462,15 +462,15 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 12910 | [espanso](https://github.com/espanso/espanso) | A cross-platform Text Expander. | 2025-12-19 |
+| 12911 | [espanso](https://github.com/espanso/espanso) | A cross-platform Text Expander. | 2025-12-19 |
 | 12156 | [ast-grep](https://github.com/ast-grep/ast-grep) | A CLI tool for code structural search, lint and rewriting. | 2026-01-20 |
 | 9131 | [aichat](https://github.com/sigoden/aichat) | All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. | 2026-01-06 |
-| 5951 | [LLDAP](https://github.com/lldap/lldap) | Simplified LDAP interface for authentication. | 2026-01-23 |
+| 5952 | [LLDAP](https://github.com/lldap/lldap) | Simplified LDAP interface for authentication. | 2026-01-23 |
 | 1084 | [CookCLI](https://github.com/cooklang/CookCLI) | Command-line recipe manager with web server, shopping lists, and meal planning capabilities. | 2026-01-22 |
 | 855 | [eureka](https://github.com/simeg/eureka) [🦀](https://crates.io/crates/eureka) | A CLI tool to input and store your ideas without leaving the terminal | 2023-04-01 |
 | 808 | [Bartib](https://github.com/nikolassv/bartib) [🦀](https://crates.io/crates/bartib) | [ Bartib ] - A simple timetracker for the command line | 2026-01-06 |
 | 590 | [pier-cli/pier](https://github.com/pier-cli/pier) | A central repository to manage (add, search metadata, etc.) all your one-liners, scripts, tools, and CLIs | 2024-08-07 |
-| 460 | [agent-of-empires](https://github.com/njbrake/agent-of-empires) | A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing | 2026-01-23 |
+| 461 | [agent-of-empires](https://github.com/njbrake/agent-of-empires) | A TUI/CLI for managing multiple AI coding agent sessions with tmux, git worktrees, and Docker sandboxing | 2026-01-23 |
 | 366 | [Furtherance](https://github.com/unobserved-io/Furtherance) | Time tracking app built with GTK4 | 2026-01-03 |
 | 262 | [illacloud/illa](https://github.com/illacloud/illa) | Low-code internal tool builder. | 2023-10-25 |
 | 259 | [kruseio/hygg](https://github.com/kruseio/hygg) [🦀](https://crates.io/crates/hygg) | 📚 Simplifying the way you read. Minimalistic Vim-like TUI document reader. | 2025-09-28 |
@@ -534,10 +534,10 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 56781 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | 2026-01-15 |
+| 56782 | [sharkdp/bat](https://github.com/sharkdp/bat) | A cat(1) clone with wings. | 2026-01-15 |
 | 41282 | [sharkdp/fd](https://github.com/sharkdp/fd) | A simple, fast and user-friendly alternative to find. | 2026-01-20 |
 | 37969 | [nushell/nushell](https://github.com/nushell/nushell) | A new type of shell | 2026-01-21 |
-| 32805 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to cd that learns your habits | 2025-12-15 |
+| 32806 | [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) | A fast alternative to cd that learns your habits | 2025-12-15 |
 | 32157 | [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell | 2026-01-22 |
 | 28240 | [qarmin/czkawka](https://github.com/qarmin/czkawka) | Multi-functional app to find duplicates, empty folders, similar images, etc. | 2026-01-23 |
 | 28015 | [atuin](https://github.com/atuinsh/atuin) [🦀](https://crates.io/crates/atuin) | [ atuin ] - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server. | 2026-01-23 |
@@ -548,7 +548,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 13809 | [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) | counts the lines of code | 2026-01-12 |
 | 12759 | [bottom](https://github.com/ClementTsang/bottom) | Yet another cross-platform graphical process/system monitor. | 2026-01-19 |
 | 11481 | [bandwhich](https://github.com/imsnif/bandwhich) | Terminal bandwidth utilization tool | 2026-01-20 |
-| 11136 | [dust](https://github.com/bootandy/dust) | A more intuitive version of du | 2026-01-08 |
+| 11137 | [dust](https://github.com/bootandy/dust) | A more intuitive version of du | 2026-01-08 |
 | 7581 | [cantino/mcfly](https://github.com/cantino/mcfly) | Fly through your shell history. Great Scott! | 2026-01-11 |
 | 6675 | [watchexec](https://github.com/watchexec/watchexec) | Executes commands in response to file modifications | 2026-01-20 |
 | 6504 | [trippy](https://github.com/fujiapple852/trippy) | A network diagnostic tool | 2026-01-02 |
@@ -615,8 +615,8 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 73927 | [zed](https://github.com/zed-industries/zed) | A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 2026-01-23 |
-| 42560 | [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor inspired by Neovim/Kakoune. | 2026-01-23 |
+| 73928 | [zed](https://github.com/zed-industries/zed) | A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. | 2026-01-23 |
+| 42561 | [helix](https://github.com/helix-editor/helix) | A post-modern modal text editor inspired by Neovim/Kakoune. | 2026-01-23 |
 | 37959 | [Lapce](https://github.com/lapce/lapce) | A modern editor with a backend. Taking inspiration from the discontinued xi-editor . | 2026-01-21 |
 | 3661 | [ox](https://github.com/curlpipe/ox) | An independent Rust text editor that runs in your terminal! | 2025-03-13 |
 | 1849 | [ilai-deutel/kibi](https://github.com/ilai-deutel/kibi) | A tiny (≤1024 LOC) text editor with syntax highlighting, incremental search and more. | 2026-01-08 |
@@ -654,16 +654,16 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 106202 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | A remote desktop software, great alternative to TeamViewer and AnyDesk. | 2026-01-23 |
-| 53935 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Alternative implementation of the Bitwarden server API written in Rust | 2026-01-22 |
+| 106203 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | A remote desktop software, great alternative to TeamViewer and AnyDesk. | 2026-01-23 |
+| 53936 | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | Alternative implementation of the Bitwarden server API written in Rust | 2026-01-22 |
 | 25752 | [warpdotdev/Warp](https://github.com/warpdotdev/Warp) | :heavy_dollar_sign: Warp is a blazingly-fast modern GPU-accelerated terminal built to make you and your team more productive. | 2026-01-14 |
 | 5033 | [Vibe](https://github.com/thewh1teagle/vibe) | Transcribe audio or video in every language on every platform. | 2025-11-07 |
 | 4067 | [television](https://github.com/alexpasmantier/television) | A blazing fast general purpose fuzzy finder TUI | 2026-01-18 |
 | 3281 | [str4d/rage](https://github.com/str4d/rage) [🦀](https://crates.io/crates/rage) | Rust implementation of age . | 2026-01-04 |
-| 2825 | [rustic-rs/rustic](https://github.com/rustic-rs/rustic) [🦀](https://crates.io/crates/rustic-rs) | Fast, encrypted, deduplicated backups powered by Rust. | 2026-01-21 |
+| 2826 | [rustic-rs/rustic](https://github.com/rustic-rs/rustic) [🦀](https://crates.io/crates/rustic-rs) | Fast, encrypted, deduplicated backups powered by Rust. | 2026-01-21 |
 | 2695 | [Tabiew](https://github.com/shshemi/tabiew) | A lightweight TUI app to view and query CSV files. | 2026-01-18 |
 | 2363 | [mprocs](https://github.com/pvolok/mprocs) | TUI for running multiple processes | 2026-01-21 |
-| 1449 | [mrjackwills/oxker](https://github.com/mrjackwills/oxker) [🦀](https://crates.io/crates/oxker) | A simple tui to view & control docker containers. | 2025-09-28 |
+| 1450 | [mrjackwills/oxker](https://github.com/mrjackwills/oxker) [🦀](https://crates.io/crates/oxker) | A simple tui to view & control docker containers. | 2025-09-28 |
 | 1250 | [nix-community/nix-init](https://github.com/nix-community/nix-init) | Generate Nix packages from URLs with hash prefetching, dependency inference, license detection, and more | 2026-01-23 |
 | 1027 | [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) | A lightning fast version of tmux-fingers, copy/pasting tmux like vimium/vimperator. | 2023-03-21 |
 | 792 | [suckit](https://github.com/Skallwar/suckit) [🦀](https://crates.io/crates/suckit) | Recursively visit and download a website's content to your disk. | 2024-03-05 |
@@ -717,7 +717,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 14218 | [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) | A link aggregator / reddit clone for the fediverse | 2026-01-22 |
 | 3033 | [Redlib](https://github.com/redlib-org/redlib) | An alternative private front-end to Reddit, with its origins in Libreddit | 2025-12-16 |
 | 2197 | [Plume-org/Plume](https://github.com/Plume-org/Plume) | ActivityPub federating blogging application | 2025-04-08 |
-| 1876 | [Stoatchat](https://github.com/stoatchat/stoatchat) | User-first chat platform built with modern web technologies. | 2026-01-21 |
+| 1877 | [Stoatchat](https://github.com/stoatchat/stoatchat) | User-first chat platform built with modern web technologies. | 2026-01-21 |
 | 701 | [SinTan1729/Chhoto URL](https://github.com/SinTan1729/chhoto-url) | A simple, blazingly fast, selfhosted URL shortener with no unnecessary features. | 2026-01-22 |
 | 258 | [cfal/tobaru](https://github.com/cfal/tobaru) | Port forwarder with allowlists, IP and TLS SNI/ALPN rule-based routing, iptables support, round-robin forwarding (load balancing), and hot reloading. | 2025-11-26 |
 | 227 | [importantimport/hatsu](https://github.com/importantimport/hatsu) | 🩵 Self-hosted and fully-automated ActivityPub bridge for static sites. | 2025-12-14 |
@@ -754,7 +754,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | ---: | --- | --- | --- |
 | 29918 | [just](https://github.com/casey/just) | A handy command runner for project-specific tasks | 2026-01-20 |
 | 28782 | [delta](https://github.com/dandavison/delta) [🦀](https://crates.io/crates/git-delta) | A syntax-highlighter for git and diff output | 2025-12-11 |
-| 23282 | [biome](https://github.com/biomejs/biome) | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | 2026-01-23 |
+| 23283 | [biome](https://github.com/biomejs/biome) | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | 2026-01-23 |
 | 12842 | [clippy](https://github.com/rust-lang-nursery/rust-clippy) [🦀](https://crates.io/crates/clippy) | Rust lints | 2026-01-23 |
 | 11268 | [git-cliff](https://github.com/orhun/git-cliff) | A highly customizable Changelog Generator that follows Conventional Commit specifications | 2026-01-21 |
 | 6764 | [Rustup](https://github.com/rust-lang/rustup) | the Rust toolchain installer | 2026-01-20 |
@@ -955,7 +955,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 5407 | [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) | Statistics-driven benchmarking library | 2025-11-29 |
 | 4750 | [Bytehound](https://github.com/koute/bytehound) | A memory profiler for Linux | 2023-07-28 |
 | 1321 | [Divan](https://github.com/nvzqz/divan) | Simple yet powerful benchmarking library with allocation profiling | 2025-04-14 |
-| 1281 | [pawurb/hotpath](https://github.com/pawurb/hotpath-rs) | A simple profiler that shows exactly where your code spends time and allocates | 2026-01-22 |
+| 1281 | [pawurb/hotpath](https://github.com/pawurb/hotpath-rs) | A simple profiler that shows exactly where your code spends time and allocates | 2026-01-23 |
 | 813 | [g3bench](https://github.com/bytedance/g3) | A benchmark tool that supports HTTP 1.x, HTTP 2, HTTP 3, TLS Handshake, DNS and Cloudflare Keyless | 2026-01-18 |
 | 787 | [Bencher](https://github.com/bencherdev/bencher) | A suite of continuous benchmarking tools designed to catch performance regressions in CI | 2026-01-10 |
 | 729 | [llogiq/flame](https://github.com/llogiq/flame) | An intrusive flamegraph profiling tool for rust | 2021-06-02 |
@@ -992,6 +992,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1278 | [trust](https://github.com/japaric/trust) | A Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows | 2019-11-29 |
 | 1177 | [fake-rs](https://github.com/cksac/fake-rs) | A library for generating fake data | 2026-01-23 |
 | 1053 | [cargo-mutants](https://github.com/sourcefrog/cargo-mutants) [🦀](https://crates.io/crates/cargo-mutants) | [ cargo-mutants ] - Finds inadequately tested code by injecting mutations, no source changes required. | 2026-01-19 |
+| 769 | [mockito](https://github.com/lipanski/mockito) [🦀](https://crates.io/crates/mockito) | HTTP mocking | 2026-01-21 |
 | 689 | [cucumber](https://github.com/cucumber-rs/cucumber) [🦀](https://crates.io/crates/cucumber) | An implementation of the Cucumber testing framework for Rust. Fully native, no external test runners or dependencies. | 2026-01-23 |
 | 638 | [httpmock](https://github.com/httpmock/httpmock) | HTTP mocking | 2026-01-21 |
 | 638 | [mutagen](https://github.com/llogiq/mutagen) [🦀](https://crates.io/crates/mutagen) | [ mutagen ] - A source-level mutation testing framework (nightly only) | 2022-07-29 |
@@ -1000,6 +1001,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 399 | [GoogleTest Rust](https://github.com/google/googletest-rust) [🦀](https://crates.io/crates/googletest) | Powerful test assertion framework based on the C++ test library GoogleTest | 2026-01-15 |
 | 357 | [Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident) | Fuzzing framework for Solana smart contracts with manually-guided testing, flow-based sequences, and property-based validation | 2025-11-27 |
 | 276 | [speculate](https://github.com/utkarshkukreti/speculate.rs) [🦀](https://crates.io/crates/speculate) | An RSpec inspired minimal testing framework | 2019-04-23 |
+| 225 | [mockiato](https://github.com/mockiato/mockiato) [🦀](https://crates.io/crates/mockiato) | A strict, yet friendly mocking library for unstable Rust 2018 | 2024-05-31 |
 | 210 | [rlt](https://github.com/wfxr/rlt) | A universal load testing framework, with real-time tui support. | 2026-01-23 |
 | 152 | [d-e-s-o/test-log](https://github.com/d-e-s-o/test-log) [🦀](https://crates.io/crates/test-log) | A replacement of the #[test] attribute that initializes logging and/or tracing infrastructure before running tests. | 2025-11-28 |
 | 84 | [mocktail](https://github.com/IBM/mocktail) [🦀](https://crates.io/crates/mocktail) | HTTP & gRPC server mocking for Rust | 2025-08-22 |
@@ -1009,8 +1011,6 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 19 | [bitfield/cargo-testdox](https://github.com/bitfield/cargo-testdox) [🦀](https://crates.io/crates/cargo-testdox) | Turns your Rust tests into docs | 2025-11-25 |
 | 4 | [bcheidemann/fixtures-rs](https://github.com/bcheidemann/fixtures-rs) [🦀](https://crates.io/crates/fixtures) | A proc macro for generating tests from fixtures using glob patterns | 2025-10-23 |
 | 2 | [googletest-json-serde](https://github.com/chege/googletest-json-serde) [🦀](https://crates.io/crates/googletest-json-serde) | A collection of JSON matchers for googletest-rust, supporting paths, arrays, and objects. | 2026-01-21 |
-| - | [mockiato](https://github.com/mockiato/mockiato) [🦀](https://crates.io/crates/mockiato) | A strict, yet friendly mocking library for unstable Rust 2018 | - |
-| - | [mockito](https://github.com/lipanski/mockito) [🦀](https://crates.io/crates/mockito) | HTTP mocking | - |
 | - | [proptest](https://hypothesis.works/) [🦀](https://crates.io/crates/proptest) | property testing framework inspired by the Hypothesis framework for Python | - |
 | - | [quickcheck](https://wiki.haskell.org/Introduction_to_QuickCheck1) [🦀](https://crates.io/crates/quickcheck) | A Rust implementation of QuickCheck | - |
 
@@ -1033,11 +1033,11 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 19137 | [huggingface/candle](https://github.com/huggingface/candle) [🦀](https://crates.io/crates/candle-core) | a minimalist ML framework with a focus on easiness of use and on performance (including GPU support) | 2026-01-22 |
+| 19137 | [huggingface/candle](https://github.com/huggingface/candle) [🦀](https://crates.io/crates/candle-core) | a minimalist ML framework with a focus on easiness of use and on performance (including GPU support) | 2026-01-23 |
 | 14077 | [burn](https://github.com/tracel-ai/burn) | A Flexible and Comprehensive Deep Learning Framework. | 2026-01-23 |
 | 10417 | [huggingface/tokenizers](https://github.com/huggingface/tokenizers) | Hugging Face's tokenizers for modern NLP pipelines (original implementation) with bindings for Python. | 2026-01-19 |
 | 7442 | [BAML](https://github.com/BoundaryML/baml) | A simple prompting language for building reliable AI workflows and agents. BAML's compiler is written in Rust! | 2026-01-23 |
-| 5642 | [0xplaygrounds/rig](https://github.com/0xplaygrounds/rig) | Library for creating agents and modular, scalable LLM-powered applications | 2026-01-22 |
+| 5643 | [0xplaygrounds/rig](https://github.com/0xplaygrounds/rig) | Library for creating agents and modular, scalable LLM-powered applications | 2026-01-22 |
 | 5550 | [autumnai/leaf](https://github.com/autumnai/leaf) | Open Machine Intelligence framework.. Abandoned project. The most updated fork is juice . | 2018-01-14 |
 | 5454 | [tensorflow/rust](https://github.com/tensorflow/rust) | Bindings for TensorFlow. | 2025-01-12 |
 | 5231 | [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) | Bindings for PyTorch. | 2026-01-22 |
@@ -1070,7 +1070,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 301 | [saurvs/astro-rust](https://github.com/saurvs/astro-rust) | astronomy | 2018-07-06 |
 | 139 | [cds-astro/aladin-lite](https://github.com/cds-astro/aladin-lite) | Web application for visualizing spatial and planetary image surveys in different projections | 2025-04-22 |
 | 51 | [flosse/rust-sun](https://github.com/flosse/rust-sun) [🦀](https://crates.io/crates/sun) | A rust port of the JS library suncalc | 2025-12-07 |
-| - | [fitsio](https://github.com/simonrw/rust-fitsio) [🦀](https://crates.io/crates/fitsio) | fits interface library wrapping cfitsio | - |
+| 46 | [fitsio](https://github.com/simonrw/rust-fitsio) [🦀](https://crates.io/crates/fitsio) | fits interface library wrapping cfitsio | 2025-12-16 |
 
 ### Asynchronous
 
@@ -1079,6 +1079,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 30842 | [tokio-rs/tokio](https://github.com/tokio-rs/tokio) | A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language. | 2026-01-22 |
 | 6873 | [mio](https://github.com/tokio-rs/mio) | MIO is a lightweight IO library, with a focus on adding as little overhead as possible over the OS abstractions | 2025-12-26 |
 | 5800 | [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) | Zero-cost futures | 2026-01-21 |
+| 4071 | [async-std](https://github.com/async-rs/async-std) [🦀](https://crates.io/crates/async-std) | [ async-std ] - Async version of the Rust standard library | 2025-08-15 |
 | 2345 | [Xudong-Huang/may](https://github.com/Xudong-Huang/may) | Stackful coroutine library | 2025-11-26 |
 | 1189 | [tqwewe/kameo](https://github.com/tqwewe/kameo) | Fault-tolerant Async Actors Built on Tokio | 2026-01-11 |
 | 477 | [dagrs](https://github.com/dagrs-dev/dagrs) | A high-performance asynchronous task programming framework, which follows the concept of Flow based Programming. | 2026-01-16 |
@@ -1087,7 +1088,6 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 124 | [TeaEntityLab/fpRust](https://github.com/TeaEntityLab/fpRust) | Monad/MonadIO, Handler, Coroutine/doNotation, Functional Programming features for Rust | 2021-08-21 |
 | 51 | [t3hmrman/async-dropper](https://github.com/t3hmrman/async-dropper) [🦀](https://crates.io/crates/async-dropper) | Implementation of AsyncDrop | 2024-11-28 |
 | 27 | [igumnoff/gabriel2](https://github.com/igumnoff/gabriel2) [🦀](https://crates.io/crates/gabriel2) | Gabriel2: An actor-model library based on Tokio | 2024-07-12 |
-| - | [async-std](https://github.com/async-rs/async-std) [🦀](https://crates.io/crates/async-std) | [ async-std ] - Async version of the Rust standard library | - |
 
 ### Audio and Music
 
@@ -1097,13 +1097,13 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 3019 | [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) | Audio decoding and media demuxing library supporting AAC, FLAC, MP3, MP4, OGG, Vorbis, and WAV. | 2026-01-07 |
 | 2223 | [RustAudio/rodio](https://github.com/RustAudio/rodio) | Audio playback library | 2026-01-22 |
 | 674 | [ozankasikci/rust-music-theory](https://github.com/ozankasikci/rust-music-theory) | Music theory library | 2026-01-14 |
+| 584 | [hound](https://github.com/ruuda/hound) [🦀](https://crates.io/crates/hound) | A WAV encoding and decoding library | 2025-12-03 |
 | 389 | [RustAudio/rust-portaudio](https://github.com/RustAudio/rust-portaudio) | PortAudio bindings | 2024-10-13 |
 | 268 | [Serial-ATA/lofty-rs](https://github.com/Serial-ATA/lofty-rs) [🦀](https://crates.io/crates/lofty) | A library for reading and editing the metadata of various audio formats | 2026-01-19 |
 | 103 | [aschey/stream-download-rs](https://github.com/aschey/stream-download-rs) [🦀](https://crates.io/crates/stream-download) | A library for streaming audio, video, and other media content | 2026-01-10 |
 | 89 | [jhasse/ears](https://github.com/jhasse/ears) | A simple library to play Sounds and Musics, on top of OpenAL and libsndfile | 2020-04-13 |
 | 79 | [musitdev/portmidi-rs](https://github.com/musitdev/portmidi-rs) | PortMidi bindings | 2023-07-13 |
 | 29 | [insomnimus/nodi](https://github.com/insomnimus/nodi) [🦀](https://crates.io/crates/nodi) | A library for playback and abstraction of MIDI files. | 2025-01-01 |
-| - | [hound](https://github.com/ruuda/hound) [🦀](https://crates.io/crates/hound) | A WAV encoding and decoding library | - |
 | - | [RustAudio](https://github.com/RustAudio) |  | - |
 
 ### Authentication
@@ -1162,11 +1162,11 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 17727 | [ratatui-org/ratatui](https://github.com/ratatui/ratatui) [🦀](https://crates.io/crates/ratatui) | Library that's all about cooking up terminal user interfaces (TUIs) | 2026-01-20 |
+| 53672 | [starship/starship](https://github.com/starship/starship) [🦀](https://crates.io/crates/starship) | A minimal, blazing fast, and extremely customizable prompt for any shell | 2026-01-22 |
+| 17728 | [ratatui-org/ratatui](https://github.com/ratatui/ratatui) [🦀](https://crates.io/crates/ratatui) | Library that's all about cooking up terminal user interfaces (TUIs) | 2026-01-20 |
 | 15986 | [clap-rs](https://github.com/clap-rs/clap) [🦀](https://crates.io/crates/clap) | A simple to use, full featured command-line argument parser | 2026-01-23 |
 | 5026 | [console-rs/indicatif](https://github.com/console-rs/indicatif) [🦀](https://crates.io/crates/indicatif) | indicate progress to users | 2026-01-05 |
 | 4734 | [gyscos/Cursive](https://github.com/gyscos/Cursive) [🦀](https://crates.io/crates/cursive) | build rich TUI applications | 2025-12-01 |
-| 3880 | [TimonPost/crossterm](https://github.com/crossterm-rs/crossterm) [🦀](https://crates.io/crates/crossterm) | crossplatform terminal library | 2025-12-06 |
 | 2733 | [TeXitoi/structopt](https://github.com/TeXitoi/structopt) [🦀](https://crates.io/crates/structopt) | parse command line argument by defining a struct | 2023-06-29 |
 | 2492 | [mikaelmello/inquire](https://github.com/mikaelmello/inquire) [🦀](https://crates.io/crates/inquire) | A library for building interactive prompts on terminals. | 2026-01-17 |
 | 2292 | [zhiburt/tabled](https://github.com/zhiburt/tabled) [🦀](https://crates.io/crates/tabled) | An easy to use library for pretty print tables of structs and enums. | 2026-01-22 |
@@ -1185,7 +1185,6 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 582 | [FGRibreau/spinners](https://github.com/FGRibreau/spinners) [🦀](https://crates.io/crates/spinners) | 60+ elegant terminal spinners | 2023-10-05 |
 | 537 | [killercup/quicli](https://github.com/killercup/quicli) [🦀](https://crates.io/crates/quicli) | quickly build cool CLI apps | 2018-12-07 |
 | 481 | [ogham/rust-ansi-term](https://github.com/ogham/rust-ansi-term) [🦀](https://crates.io/crates/ansi_term) | control colours and formatting on ANSI terminals | 2019-09-02 |
-| 469 | [gchp/rustbox](https://github.com/gchp/rustbox) [🦀](https://crates.io/crates/rustbox) | bindings to Termbox | 2018-03-30 |
 | 446 | [ynqa/promkit](https://github.com/ynqa/promkit) [🦀](https://crates.io/crates/promkit) | A toolkit for building interactive command-line tools | 2025-07-24 |
 | 441 | [hniksic/rust-subprocess](https://github.com/hniksic/rust-subprocess) [🦀](https://crates.io/crates/subprocess) | facilities for interaction with external pipelines | 2026-01-06 |
 | 411 | [ihalila/pancurses](https://github.com/ihalila/pancurses) [🦀](https://crates.io/crates/pancurses) | curses library, supports linux and windows | 2021-09-29 |
@@ -1206,52 +1205,53 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 57 | [hashmismatch/terminal_cli.rs](https://github.com/hashmismatch/terminal_cli.rs) [🦀](https://crates.io/crates/terminal_cli) | build an interactive command prompt | 2018-01-21 |
 | 32 | [cfyzium/bearlibterminal](https://github.com/nabijaczleweli/BearLibTerminal.rs) [🦀](https://crates.io/crates/bear-lib-terminal) | BearLibTerminal bindings | 2020-09-15 |
 | 26 | [srijs/rust-copperline](https://github.com/srijs/rust-copperline) [🦀](https://crates.io/crates/copperline) | command line editing library | 2016-07-29 |
-| - | [cliparser](https://github.com/sagiegurari/cliparser) [🦀](https://crates.io/crates/cliparser) | Simple command line parser. | - |
+| 9 | [cliparser](https://github.com/sagiegurari/cliparser) [🦀](https://crates.io/crates/cliparser) | Simple command line parser. | 2024-07-29 |
+| 1 | [ruterm](https://github.com/georgiyozhegov/terminal) [🦀](https://crates.io/crates/ruterm) | tiny & simple library for working with TTY | 2024-07-16 |
+| - | [gchp/rustbox](https://github.com/gchp/rustbox) [🦀](https://crates.io/crates/rustbox) | bindings to Termbox | - |
 | - | [imp/pager-rs](https://gitlab.com/imp/pager-rs) [🦀](https://crates.io/crates/pager) | pipe your output through an external pager | - |
-| - | [ruterm](https://github.com/georgiyozhegov/terminal) [🦀](https://crates.io/crates/ruterm) | tiny & simple library for working with TTY | - |
-| - | [starship/starship](https://github.com/starship/starship) [🦀](https://crates.io/crates/starship) | A minimal, blazing fast, and extremely customizable prompt for any shell | - |
+| - | [TimonPost/crossterm](https://github.com/crossterm-rs/crossterm) [🦀](https://crates.io/crates/crossterm) | crossplatform terminal library | - |
 
 ### Compression
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 1069 | [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) | miniz bindings | 2026-01-19 |
-| 904 | [dropbox/rust-brotli](https://github.com/dropbox/rust-brotli) | Brotli decompressor that optionally avoids the stdlib | 2025-12-03 |
-| 702 | [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) | tar archive reading/writing | 2026-01-23 |
-| 613 | [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) | rust binding for the zstd compression library | 2025-11-27 |
-| 275 | [zip-rs/zip2](https://github.com/zip-rs/zip2) [🦀](https://crates.io/crates/zip) | read and write ZIP archives | 2026-01-23 |
-| 171 | [sstadick/gzp](https://github.com/sstadick/gzp) | multi-threaded encoding and decoding of deflate formats and snappy | 2025-11-19 |
-| 162 | [trifectatechfoundation/bzip2-rs](https://github.com/trifectatechfoundation/bzip2-rs) | libbz2 bindings | 2026-01-13 |
-| 64 | [ende76/brotli-rs](https://github.com/ende76/brotli-rs) | implementation of Brotli compression | 2020-04-06 |
-| 49 | [zopfli](https://github.com/zopfli-rs/zopfli) [🦀](https://crates.io/crates/zopfli) | [ zopfli ] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression | 2025-12-01 |
-| 1 | [paxit](https://github.com/roquess/paxit) [🦀](https://crates.io/crates/paxit) | [ paxit ] - Flexible library for compressing and decompressing files using various algorithms (zip, tar, gzip, xz, zst, etc.) with modular design for easy extension | 2025-01-19 |
 | - | [7z](https://7-zip.org/7z.html) |  | - |
+| - | [alexcrichton/tar-rs](https://github.com/alexcrichton/tar-rs) | tar archive reading/writing | - |
 | - | [Brotli](https://opensource.googleblog.com/2015/09/introducing-brotli-new-compression.html) |  | - |
+| - | [dropbox/rust-brotli](https://github.com/dropbox/rust-brotli) | Brotli decompressor that optionally avoids the stdlib | - |
+| - | [ende76/brotli-rs](https://github.com/ende76/brotli-rs) | implementation of Brotli compression | - |
+| - | [gyscos/zstd-rs](https://github.com/gyscos/zstd-rs) | rust binding for the zstd compression library | - |
+| - | [paxit](https://github.com/roquess/paxit) [🦀](https://crates.io/crates/paxit) | [ paxit ] - Flexible library for compressing and decompressing files using various algorithms (zip, tar, gzip, xz, zst, etc.) with modular design for easy extension | - |
+| - | [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) | miniz bindings | - |
 | - | [sevenz-rust](https://github.com/dyz1990/sevenz-rust) [🦀](https://crates.io/crates/sevenz-rust) | A 7z decompressor/compressor written in pure rust. | - |
+| - | [sstadick/gzp](https://github.com/sstadick/gzp) | multi-threaded encoding and decoding of deflate formats and snappy | - |
+| - | [trifectatechfoundation/bzip2-rs](https://github.com/trifectatechfoundation/bzip2-rs) | libbz2 bindings | - |
+| - | [zip-rs/zip2](https://github.com/zip-rs/zip2) [🦀](https://crates.io/crates/zip) | read and write ZIP archives | - |
+| - | [zopfli](https://github.com/zopfli-rs/zopfli) [🦀](https://crates.io/crates/zopfli) | [ zopfli ] - implementation of the Zopfli compression algorithm for higher quality deflate or zlib compression | - |
 
 ### Computation
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 4614 | [dimforge/nalgebra](https://github.com/dimforge/nalgebra) | low-dimensional linear algebra library | 2026-01-22 |
-| 2452 | [faer-rs](https://github.com/sarah-quinones/faer-rs) [🦀](https://crates.io/crates/faer) | Linear algebra foundation for Rust | 2025-12-17 |
-| 1613 | [calebwin/emu](https://github.com/calebwin/emu) | A language for GPGPU numerical computing | 2021-03-26 |
-| 1217 | [argmin-rs/argmin](https://github.com/argmin-rs/argmin) [🦀](https://crates.io/crates/argmin) | Optimization library | 2025-10-02 |
-| 828 | [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) | Arrayfire bindings | 2023-02-26 |
 | 769 | [statrs-dev/statrs](https://github.com/statrs-dev/statrs) | Robust statistical computation library | 2025-11-17 |
-| 663 | [Axect/Peroxide](https://github.com/Axect/Peroxide) | Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust | 2025-07-24 |
-| 479 | [autumnai/collenchyma](https://github.com/autumnai/collenchyma) | An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. | 2016-04-10 |
-| 242 | [fastnum](https://github.com/neogenie/fastnum) [🦀](https://crates.io/crates/fastnum) | fastnum - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations. | 2025-12-28 |
-| 202 | [GuillaumeGomez/rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) | GSL bindings | 2025-01-27 |
 | 175 | [cpmech/russell](https://github.com/cpmech/russell) | Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra | 2025-03-18 |
-| 170 | [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) | OpenCL bindings | 2017-01-08 |
 | 93 | [Nonanti/mathcore](https://github.com/Nonanti/mathcore) [🦀](https://crates.io/crates/mathcore) | Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic | 2025-09-20 |
-| 90 | [stainless-steel/lapack](https://github.com/blas-lapack-rs/lapack) | LAPACK bindings | 2025-02-08 |
-| 87 | [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas) | BLAS bindings | 2016-03-06 |
 | 76 | [Ryan-D-Gast/differential-equations](https://github.com/Ryan-D-Gast/differential-equations) | A high-performance library for numerically solving differential equations | 2025-11-16 |
+| - | [argmin-rs/argmin](https://github.com/argmin-rs/argmin) [🦀](https://crates.io/crates/argmin) | Optimization library | - |
+| - | [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) | Arrayfire bindings | - |
+| - | [autumnai/collenchyma](https://github.com/autumnai/collenchyma) | An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. | - |
+| - | [Axect/Peroxide](https://github.com/Axect/Peroxide) | Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust | - |
 | - | [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) | [ blas ] | - |
+| - | [calebwin/emu](https://github.com/calebwin/emu) | A language for GPGPU numerical computing | - |
+| - | [dimforge/nalgebra](https://github.com/dimforge/nalgebra) | low-dimensional linear algebra library | - |
+| - | [faer-rs](https://github.com/sarah-quinones/faer-rs) [🦀](https://crates.io/crates/faer) | Linear algebra foundation for Rust | - |
+| - | [fastnum](https://github.com/neogenie/fastnum) [🦀](https://crates.io/crates/fastnum) | fastnum - Fast exact precision decimal numbers implemented in pure Rust. Suitable for financial, crypto and any other fixed-precision calculations. | - |
 | - | [GSL](http://www.gnu.org/software/gsl/) |  | - |
+| - | [GuillaumeGomez/rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) | GSL bindings | - |
 | - | [LAPACK](https://en.wikipedia.org/wiki/LAPACK) |  | - |
+| - | [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) | OpenCL bindings | - |
+| - | [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas) | BLAS bindings | - |
+| - | [stainless-steel/lapack](https://github.com/blas-lapack-rs/lapack) | LAPACK bindings | - |
 
 ### Concurrency
 
@@ -1261,9 +1261,9 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 8270 | [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) | Support for parallelism and low-level concurrency | 2025-04-08 |
 | 463 | [zonyitoo/coio-rs](https://github.com/zonyitoo/coio-rs) | Coroutine I/O | 2018-08-24 |
 | 417 | [rustcc/coroutine-rs](https://github.com/rustcc/coroutine-rs) | Coroutine Library | 2021-08-29 |
+| 297 | [orx-parallel](https://github.com/orxfun/orx-parallel) [🦀](https://crates.io/crates/orx-parallel) | High performance, configurable and expressive parallel computation library. | 2026-01-12 |
 | 168 | [orium/archery](https://github.com/orium/archery) [🦀](https://crates.io/crates/archery) | Library to abstract from Rc / Arc pointer types. | 2025-11-13 |
 | 6 | [NikitaSmithTheOne/rate-limiters-rs](https://github.com/NikitaSmithTheOne/rate-limiters-rs) [🦀](https://crates.io/crates/rate_limiters) | Rust library for rate limiting (Leaky Bucket, Token Bucket, Fixed/Sliding Window) | 2025-09-06 |
-| - | [orx-parallel](https://github.com/orxfun/orx-parallel) [🦀](https://crates.io/crates/orx-parallel) | High performance, configurable and expressive parallel computation library. | - |
 
 ### Configuration
 
@@ -1315,7 +1315,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
 | 57878 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | Performant open-source Python ETL framework with Rust runtime, supporting 300+ data sources. | 2026-01-23 |
-| 37111 | [pola-rs/polars](https://github.com/pola-rs/polars) | Fast feature complete DataFrame library | 2026-01-23 |
+| 37113 | [pola-rs/polars](https://github.com/pola-rs/polars) | Fast feature complete DataFrame library | 2026-01-23 |
 | 8310 | [datafusion](https://github.com/apache/datafusion) | DataFusion is a very fast, extensible query engine for building high-quality data-centric systems in Rust, using the Apache Arrow in-memory format. | 2026-01-23 |
 | 8223 | [pg_analytics](https://github.com/paradedb/paradedb) | PostgreSQL extension that accelerates analytical query processing inside Postgres to a performance level comparable to dedicated OLAP databases. | 2026-01-23 |
 | 8223 | [pg_lakehouse](https://github.com/paradedb/paradedb) | PostgreSQL extension that transforms Postgres into an analytical query engine over object stores like AWS S3/GCS and table formats like Delta Lake/Iceberg. | 2026-01-23 |
@@ -1361,7 +1361,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 10050 | [rerun](https://github.com/rerun-io/rerun) [🦀](https://crates.io/crates/rerun) | [ rerun ] - An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time. | 2026-01-23 |
+| 10051 | [rerun](https://github.com/rerun-io/rerun) [🦀](https://crates.io/crates/rerun) | [ rerun ] - An SDK for logging computer vision and robotics data (tensors, point clouds, etc) paired with a visualizer for exploring that data over time. | 2026-01-23 |
 | 4460 | [plotters](https://github.com/plotters-rs/plotters) |  | 2025-03-27 |
 | 1392 | [plotly](https://github.com/plotly/plotly.rs) | Plotly for Rust | 2026-01-10 |
 | 642 | [blitzarx1/egui_graphs](https://github.com/blitzarx1/egui_graphs) [🦀](https://crates.io/crates/egui_graphs) | Interactive graph visualization widget powered by egui and petgraph. | 2025-11-03 |
@@ -1375,7 +1375,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 30917 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | SurrealDB embedded document-graph database | 2026-01-23 |
+| 30918 | [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) | SurrealDB embedded document-graph database | 2026-01-23 |
 | 16389 | [launchbadge/sqlx](https://github.com/launchbadge/sqlx) | async PostgreSQL/MySQL/SQLite connection pool with strong typing support | 2026-01-18 |
 | 13904 | [diesel-rs/diesel](https://github.com/diesel-rs/diesel) | an ORM and Query builder | 2026-01-23 |
 | 9278 | [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) [🦀](https://crates.io/crates/sea-orm) | 🐚 An async & dynamic ORM | 2026-01-23 |
@@ -1415,6 +1415,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 146 | [cassandra-rs](https://github.com/cassandra-rs/cassandra-rs) | bindings to the DataStax C/C++ | 2024-06-18 |
 | 144 | [jimmycuadra/rust-etcd](https://github.com/jimmycuadra/rust-etcd) [🦀](https://crates.io/crates/etcd) | A client library for CoreOS's etcd. | 2018-12-15 |
 | 131 | [Arangors](https://github.com/fMeow/arangors) [🦀](https://crates.io/crates/arangors) | [ arangors ] - An ArangoDB driver | 2025-10-21 |
+| 130 | [VennDB](https://github.com/plabayo/venndb) | [ venndb ] - An append-only in-memory database in Rust for rows queried using bit (flag) columns. | 2025-11-18 |
 | 122 | [thegenius/taitan-orm](https://github.com/thegenius/taitan-orm) | The State of Art ORM for Rust, Async & Compile Time Generation. | 2025-09-24 |
 | 115 | [vhbit/lmdb-rs](https://github.com/vhbit/lmdb-rs) [🦀](https://crates.io/crates/lmdb-rs) | LMDB bindings | 2020-05-20 |
 | 112 | [zitsen/unqlite.rs](https://github.com/zitsen/unqlite.rs) | UnQLite bindings | 2020-12-04 |
@@ -1445,7 +1446,6 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [sql](https://crates.io/keywords/sql) | [ sql ] | - |
 | - | [sqlite](https://crates.io/keywords/sqlite) | [ sqlite ] | - |
 | - | [SurrealDB](https://surrealdb.com/) |  | - |
-| - | [VennDB](https://github.com/plabayo/venndb) | [ venndb ] - An append-only in-memory database in Rust for rows queried using bit (flag) columns. | - |
 | - | [ZooKeeper](https://zookeeper.apache.org/) |  | - |
 
 ### Date and time
@@ -1527,6 +1527,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 471 | [netvl/xml-rs](https://github.com/netvl/xml-rs) | A streaming XML library | 2025-08-25 |
 | 450 | [mongodb/bson-rust](https://github.com/mongodb/bson-rust) | Encoding and decoding support for BSON | 2026-01-20 |
 | 440 | [hsivonen/encoding_rs](https://github.com/hsivonen/encoding_rs) [🦀](https://crates.io/crates/encoding_rs) | A Gecko-oriented implementation of the Encoding Standard | 2025-12-19 |
+| 310 | [serde_cbor](https://github.com/pyfisch/cbor) [🦀](https://crates.io/crates/serde_cbor) | CBOR support for serde | 2021-08-15 |
 | 288 | [lifthrasiir/rust-encoding](https://github.com/lifthrasiir/rust-encoding) | Character encoding support for Rust. (also known as rust-encoding) It is based on WHATWG Encoding Standard, and also provides an advanced interface for error detection and recovery. | 2017-07-11 |
 | 282 | [saphyr](https://github.com/saphyr-rs/saphyr) | A set of crates dedicated to parsing YAML. | 2026-01-07 |
 | 220 | [mrhooray/crc-rs](https://github.com/mrhooray/crc-rs) | Rust implementation of CRC(16, 32, 64) with support of various standards | 2026-01-02 |
@@ -1545,7 +1546,6 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 25 | [vitiral/stfu8](https://github.com/vitiral/stfu8) [🦀](https://crates.io/crates/stfu8) | Sorta Text Format in UTF-8 | 2024-01-09 |
 | 13 | [rustadopt/jzon-rs](https://github.com/rustadopt/jzon-rs) [🦀](https://crates.io/crates/jzon) | JSON implementation | 2025-09-12 |
 | - | [FlatBuffers](https://flatbuffers.dev/) |  | - |
-| - | [serde_cbor](https://github.com/pyfisch/cbor) [🦀](https://crates.io/crates/serde_cbor) | CBOR support for serde | - |
 
 ### Filesystem
 
@@ -1583,8 +1583,10 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 44268 | [Bevy](https://github.com/bevyengine/bevy) [🦀](https://crates.io/crates/bevy) | is a refreshingly simple data-driven game engine. - | 2026-01-23 |
+| 44273 | [Bevy](https://github.com/bevyengine/bevy) [🦀](https://crates.io/crates/bevy) | is a refreshingly simple data-driven game engine. - | 2026-01-23 |
+| 8831 | [Fyrox](https://github.com/FyroxEngine/Fyrox) [🦀](https://crates.io/crates/fyrox) | Game engine 3D | 2026-01-23 |
 | 6569 | [Pumpkin](https://github.com/pumpkin-mc/pumpkin) | A high-performance Minecraft server Software fully written in Rust | 2026-01-23 |
+| 4702 | [Piston](https://github.com/PistonDevelopers/piston) [🦀](https://crates.io/crates/piston) |  | 2024-05-21 |
 | 4581 | [ggez](https://github.com/ggez/ggez) [🦀](https://crates.io/crates/ggez) | A lightweight game framework for making 2D games with minimum friction - | 2025-08-13 |
 | 4363 | [godot-rust/gdext](https://github.com/godot-rust/gdext) [🦀](https://crates.io/crates/gdext) | Bindings to the Godot 4+ game engine | 2026-01-20 |
 | 3642 | [godot-rust/gdnative](https://github.com/godot-rust/gdnative) [🦀](https://crates.io/crates/gdnative) | Bindings to the Godot 3+ game engine | 2025-12-31 |
@@ -1610,9 +1612,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 31 | [VictoremWinbringer/Victorem](https://github.com/VictoremWinbringer/Victorem) [🦀](https://crates.io/crates/Victorem) | Easy UDP Game Server and UDP Client framework for creating simple 2D and 3D online game prototype | 2019-01-14 |
 | 3 | [iddm/toornament-rs](https://github.com/iddm/toornament-rs) [🦀](https://crates.io/crates/toornament) | Toornament.com API bindings. | 2023-12-05 |
 | 2 | [iddm/challonge-rs](https://github.com/iddm/challonge-rs) [🦀](https://crates.io/crates/challonge) | Client library for the Challonge REST API. Helps to organize tournaments. | 2023-12-05 |
-| - | [Fyrox](https://github.com/FyroxEngine/Fyrox) [🦀](https://crates.io/crates/fyrox) | Game engine 3D | - |
 | - | [Godot](https://godotengine.org/) |  | - |
-| - | [Piston](https://github.com/PistonDevelopers/piston) [🦀](https://crates.io/crates/piston) |  | - |
 | - | [Raylib](https://www.raylib.com/) |  | - |
 | - | [SDL](https://www.libsdl.org/) | [ sdl ] | - |
 
@@ -1638,7 +1638,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 16191 | [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) | Native WebGPU implementation based on gfx-hal. | 2026-01-23 |
+| 16192 | [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) | Native WebGPU implementation based on gfx-hal. | 2026-01-23 |
 | 5406 | [gfx-rs/gfx](https://github.com/gfx-rs/gfx) | A high-performance, bindless graphics API. | 2021-08-03 |
 | 4992 | [vulkano](https://github.com/vulkano-rs/vulkano) [🦀](https://crates.io/crates/vulkano) | [ vulkano ] - Safe and rich Rust wrapper around the Vulkan API | 2026-01-14 |
 | 3603 | [glium/glium](https://github.com/glium/glium) | safe OpenGL wrapper. | 2025-08-19 |
@@ -1660,11 +1660,11 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
 | 101766 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Build smaller, faster, and more secure desktop applications with a web frontend, powered by WRY . | 2026-01-22 |
-| 70911 | [ImGui](https://github.com/ocornut/imgui) |  | 2026-01-23 |
+| 70913 | [ImGui](https://github.com/ocornut/imgui) |  | 2026-01-23 |
 | 34351 | [DioxusLabs/dioxus](https://github.com/dioxuslabs/dioxus) | a portable, performant, and ergonomic framework for building cross-platform user interfaces in Rust. | 2026-01-23 |
-| 29206 | [iced-rs/iced](https://github.com/iced-rs/iced) [🦀](https://crates.io/crates/iced) | A cross-platform GUI library, focused on simplicity and type-safety. Inspired by Elm. | 2026-01-20 |
+| 29209 | [iced-rs/iced](https://github.com/iced-rs/iced) [🦀](https://crates.io/crates/iced) | A cross-platform GUI library, focused on simplicity and type-safety. Inspired by Elm. | 2026-01-20 |
 | 27839 | [emilk/egui](https://github.com/emilk/egui) | Simple, fast, and highly portable immediate mode GUI library. egui runs on the web, natively, and in your favorite game engine. | 2026-01-19 |
-| 21532 | [slint-ui/slint](https://github.com/slint-ui/slint) [🦀](https://crates.io/crates/slint) | Slint is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. | 2026-01-23 |
+| 21533 | [slint-ui/slint](https://github.com/slint-ui/slint) [🦀](https://crates.io/crates/slint) | Slint is a toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications. | 2026-01-23 |
 | 10857 | [libui](https://github.com/andlabs/libui) |  | 2021-01-02 |
 | 10787 | [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) |  | 2025-11-16 |
 | 6133 | [makepad/makepad](https://github.com/makepad/makepad) [🦀](https://crates.io/crates/makepad-widgets) | Makepad is a creative software development platform that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl. | 2026-01-23 |
@@ -1776,7 +1776,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 4844 | [quinn-rs/quinn](https://github.com/quinn-rs/quinn) | Futures-based QUIC implementation | 2026-01-22 |
 | 4331 | [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp) | A standalone, event-driven TCP/IP stack that is designed for bare-metal, real-time systems | 2025-10-13 |
 | 2542 | [libpnet/libpnet](https://github.com/libpnet/libpnet) | A cross-platform, low level networking | 2025-01-23 |
-| 2420 | [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) | Zero Overhead Network Protocol | 2026-01-22 |
+| 2421 | [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh) | Zero Overhead Network Protocol | 2026-01-22 |
 | 2133 | [mozilla/neqo](https://github.com/mozilla/neqo) | an Implementation of QUIC | 2026-01-22 |
 | 2041 | [bytebeamio/rumqtt](https://github.com/bytebeamio/rumqtt) | A library for developers to build applications that communicate with the MQTT protocol over TCP and WebSockets, with or without TLS. | 2025-11-21 |
 | 1850 | [tikv/grpc-rs](https://github.com/tikv/grpc-rs) | The gRPC library built on C Core library and futures | 2025-06-04 |
@@ -1803,9 +1803,9 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 135 | [smallnest/rpcx-rs](https://github.com/smallnest/rpcx-rs) | A RPC library for developing microservices in easy and simple way. | 2024-03-13 |
 | 109 | [eclipse-zenoh-flow/zenoh-flow](https://github.com/eclipse-zenoh-flow/zenoh-flow) | A declarative framework for computations that span from the Cloud to the Thing | 2025-04-04 |
 | 90 | [zslayton/stomp-rs](https://github.com/zslayton/stomp-rs) | A STOMP 1.2 client implementation | 2018-07-06 |
+| 67 | [deboa](https://github.com/ararog/deboa) [🦀](https://crates.io/crates/deboa) | A friendly http client on top of hyper with several addoons, serialization formats and macros. [ ] | 2026-01-23 |
 | 33 | [mattnenterprise/rust-pop3](https://github.com/mattnenterprise/rust-pop3) [🦀](https://crates.io/crates/pop3) | A POP3 client | 2020-12-20 |
 | 15 | [mattnenterprise/rust-nntp](https://github.com/mattnenterprise/rust-nntp) [🦀](https://crates.io/crates/nntp) | an NNTP client | 2017-06-27 |
-| - | [deboa](https://github.com/ararog/deboa) [🦀](https://crates.io/crates/deboa) | A friendly http client on top of hyper with several addoons, serialization formats and macros. [ ] | - |
 | - | [neachdainn/nng-rs](https://gitlab.com/neachdainn/nng-rs) [🦀](https://crates.io/crates/nng) | Nng (nanomsg v2) bindings | - |
 | - | [Thrussh](https://pijul.org/thrussh) [🦀](https://crates.io/crates/thrussh) | [ thrussh ] - an SSH library, backed by libsodium | - |
 
@@ -1829,10 +1829,10 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 99 | [Folyd/robotstxt](https://github.com/Folyd/robotstxt) | Port of Google's robots.txt parser and matcher C++ library | 2021-02-13 |
 | 71 | [0xlane/pe-sign](https://github.com/0xlane/pe-sign) [🦀](https://crates.io/crates/pe-sign) | A cross-platform rust no-std library for verifying and extracting signature information from PE files. | 2024-12-02 |
 | 70 | [s-panferov/queryst](https://github.com/s-panferov/queryst) | A query string parsing library inspired by gs | 2023-05-13 |
+| 58 | [hmeyer/stl_io](https://github.com/hmeyer/stl_io) [🦀](https://crates.io/crates/stl_io) | A parser for STL (STereoLithography) files | 2025-11-09 |
 | 50 | [nrc/zero](https://github.com/nrc/zero) [🦀](https://crates.io/crates/zero) | zero-allocation parsing of binary data | 2023-02-06 |
 | 4 | [cchexcode/wavefront_rs](https://github.com/cchexcode/wavefront_rs) [🦀](https://crates.io/crates/wavefront_rs) | A parser for the Wavefront OBJ format. | 2023-04-06 |
 | 1 | [slimreaper35/dockerfile-parser-rs](https://github.com/slimreaper35/dockerfile-parser-rs) [🦀](https://crates.io/crates/dockerfile-parser-rs) | Dockerfile parsing library and CLI tool | 2025-11-03 |
-| - | [hmeyer/stl_io](https://github.com/hmeyer/stl_io) [🦀](https://crates.io/crates/stl_io) | A parser for STL (STereoLithography) files | - |
 
 ### Peripherals
 
@@ -1850,12 +1850,12 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1918 | [retep998/winapi-rs](https://github.com/retep998/winapi-rs) | Windows API bindings | 2021-11-06 |
 | 1885 | [rustix](https://github.com/bytecodealliance/rustix) | Safe bindings to POSIX/Unix/Linux/Winsock2 syscalls | 2025-12-23 |
 | 1127 | [zargony/fuse-rs](https://github.com/zargony/fuse-rs) | FUSE bindings | 2020-07-29 |
+| 375 | [svartalf/rust-battery](https://github.com/svartalf/rust-battery) [🦀](https://crates.io/crates/battery) | Cross-platform information about the notebook batteries | 2020-11-01 |
 | 284 | [hannobraun/inotify-rs](https://github.com/hannobraun/inotify-rs) | inotify bindings | 2025-12-01 |
 | 227 | [pop-os/distinst](https://github.com/pop-os/distinst) | Linux distribution installer | 2025-10-14 |
 | 144 | [iddm/thread-priority](https://github.com/iddm/thread-priority) [🦀](https://crates.io/crates/thread-priority) | Simple, crossplatform thread priority management. | 2025-09-03 |
 | 95 | [yaa110/rust-iptables](https://github.com/yaa110/rust-iptables) [🦀](https://crates.io/crates/iptables) | iptables bindings | 2025-08-07 |
 | 59 | [fubarnetes/libjail-rs](https://github.com/fubarnetes/libjail-rs) [🦀](https://crates.io/crates/jail) | FreeBSD jail library | 2025-09-23 |
-| - | [svartalf/rust-battery](https://github.com/svartalf/rust-battery) [🦀](https://crates.io/crates/battery) | Cross-platform information about the notebook batteries | - |
 
 ### Reverse engineering
 
@@ -1868,7 +1868,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 5118 | [rhaiscript/rhai](https://github.com/rhaiscript/rhai) | A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust | 2026-01-19 |
+| 5120 | [rhaiscript/rhai](https://github.com/rhaiscript/rhai) | A tiny and fast embedded scripting language resembling a combination of JavaScript and Rust | 2026-01-19 |
 | 3382 | [gluon-lang/gluon](https://github.com/gluon-lang/gluon) | A small, statically-typed, functional programming language | 2024-12-06 |
 | 2279 | [kcl](https://github.com/kcl-lang/kcl) | A constraint-based record & functional language mainly used in configuration and policy scenarios. | 2026-01-13 |
 | 2145 | [rune-rs/rune](https://github.com/rune-rs/rune) | An embeddable dynamic programming language | 2026-01-22 |
@@ -1878,17 +1878,17 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1754 | [metacall/core](https://github.com/metacall/core) [🦀](https://crates.io/crates/metacall) | Cross-platform Polyglot Runtime which supports NodeJS, JavaScript, TypeScript, Python, Ruby, C#, Wasm, Java, Cobol and more. | 2026-01-20 |
 | 920 | [facebook/starlark-rust](https://github.com/facebook/starlark-rust) | A small, deterministic, thread-safe language with Python syntax | 2026-01-23 |
 | 767 | [murarth/ketos](https://github.com/murarth/ketos) | A Lisp dialect functional programming language serving as a scripting and extension language for rust | 2020-01-17 |
+| 574 | [duckscript](https://github.com/sagiegurari/duckscript) [🦀](https://crates.io/crates/duckscript) | Simple, extendable and embeddable scripting language. | 2025-10-29 |
 | 564 | [cel-rust](https://github.com/cel-rust/cel-rust) [🦀](https://crates.io/crates/cel-interpreter) | Common expression language parser and interpreter | 2026-01-14 |
 | 398 | [fleabitdev/gamelisp](https://github.com/fleabitdev/glsp) | A Lisp-like scripting language for game development | 2022-03-08 |
 | 183 | [3body-lang](https://github.com/rustq/3body-lang) | The Three Body Language | 2025-05-01 |
 | 73 | [giraffekey/xylo](https://github.com/giraffekey/xylo) [🦀](https://crates.io/crates/xylo-lang) | A functional programming language for procedural art. | 2025-07-07 |
-| - | [duckscript](https://github.com/sagiegurari/duckscript) [🦀](https://crates.io/crates/duckscript) | Simple, extendable and embeddable scripting language. | - |
 
 ### Simulation
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| - | [nyx-space](https://github.com/nyx-space/nyx) [🦀](https://crates.io/crates/nyx-space) | High fidelity, fast, reliable and validated astrodynamical toolkit library, used for spacecraft mission design and orbit determination | - |
+| 406 | [nyx-space](https://github.com/nyx-space/nyx) [🦀](https://crates.io/crates/nyx-space) | High fidelity, fast, reliable and validated astrodynamical toolkit library, used for spacecraft mission design and orbit determination | 2025-11-22 |
 
 ### Social networks
 
@@ -1917,7 +1917,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 4099 | [Keats/tera](https://github.com/Keats/tera) | template engine based on Jinja2 and the Django template language. | 2025-12-11 |
+| 4100 | [Keats/tera](https://github.com/Keats/tera) | template engine based on Jinja2 and the Django template language. | 2025-12-11 |
 | 2511 | [lambda-fairy/maud](https://github.com/lambda-fairy/maud) | compile-time HTML templates | 2026-01-18 |
 | 1448 | [sunng87/handlebars-rust](https://github.com/sunng87/handlebars-rust) | Handlebars template engine with inheritance, custom helper support. | 2026-01-05 |
 | 935 | [askama](https://github.com/askama-rs/askama) | template rendering engine based on Jinja | 2026-01-23 |
@@ -1934,6 +1934,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1058 | [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) | Natural language detection library based on trigrams | 2025-12-24 |
 | 563 | [fancy-regex/fancy-regex](https://github.com/fancy-regex/fancy-regex) [🦀](https://crates.io/crates/fancy-regex) | Regular expressions implementation designed to support a relatively rich set of features such as look-around and backtracking. | 2026-01-21 |
 | 513 | [mgeisler/textwrap](https://github.com/mgeisler/textwrap) [🦀](https://crates.io/crates/textwrap) | Word wrap text (with support for hyphenation) | 2025-10-03 |
+| 466 | [strsim-rs](https://github.com/rapidfuzz/strsim-rs) [🦀](https://crates.io/crates/strsim) | String similarity metrics | 2025-11-27 |
 | 281 | [BurntSushi/suffix](https://github.com/BurntSushi/suffix) | Linear time suffix array construction (with Unicode support) | 2023-10-10 |
 | 271 | [BurntSushi/tabwriter](https://github.com/BurntSushi/tabwriter) | Elastic tab stops (i.e., text column alignment) | 2025-09-21 |
 | 157 | [cpc](https://github.com/probablykasper/cpc) | Parses and calculates strings of math with support for units and unit conversion, from 1+2 to 1% of round(1 lightyear / 14!s to km/h) . | 2025-06-23 |
@@ -1944,13 +1945,12 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 90 | [ps1dr3x/easy_reader](https://github.com/ps1dr3x/easy_reader) | A reader that allows forwards, backwards and random navigations through the lines of huge files without consuming iterators | 2022-02-16 |
 | 36 | [yaa110/rake-rs](https://github.com/yaa110/rake-rs) [🦀](https://crates.io/crates/rake) | Multilingual implementation of RAKE algorithm for Rust | 2025-02-20 |
 | 27 | [pwoolcoc/ngrams](https://github.com/pwoolcoc/ngrams) [🦀](https://crates.io/crates/ngrams) | Construct n-grams from arbitrary iterators | 2016-08-30 |
-| - | [strsim-rs](https://github.com/rapidfuzz/strsim-rs) [🦀](https://crates.io/crates/strsim) | String similarity metrics | - |
 
 ### Text search
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| 55533 | [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) | Ultra relevant, instant and typo-tolerant full-text search API. | 2026-01-22 |
+| 55534 | [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) | Ultra relevant, instant and typo-tolerant full-text search API. | 2026-01-22 |
 | 14407 | [tantivy](https://github.com/quickwit-oss/tantivy) [🦀](https://crates.io/crates/tantivy) | [ tantivy ] - A horse-speed full-text search engine library written in Rust. | 2026-01-23 |
 | 8223 | [pg_search](https://github.com/paradedb/paradedb) | PostgreSQL extension that enables full-text search over SQL tables using the BM25 algorithm, the state-of-the-art ranking function for full-text search. | 2026-01-23 |
 | 2039 | [BurntSushi/fst](https://github.com/BurntSushi/fst) [🦀](https://crates.io/crates/fst) | a fast implementation of ordered sets and maps using finite state machines | 2024-09-25 |
@@ -1962,7 +1962,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
-| - | [zerocopy](https://github.com/google/zerocopy) [🦀](https://crates.io/crates/zerocopy) | "Zerocopy makes zero-cost memory manipulation effortless. We write unsafe so you don’t have to." | - |
+| 2138 | [zerocopy](https://github.com/google/zerocopy) [🦀](https://crates.io/crates/zerocopy) | "Zerocopy makes zero-cost memory manipulation effortless. We write unsafe so you don’t have to." | 2026-01-23 |
 
 ### Video
 
@@ -1985,6 +1985,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
+| 32363 | [yew](https://github.com/yewstack/yew) [🦀](https://crates.io/crates/yew) | A framework for making client web apps | 2026-01-10 |
 | 25623 | [Rocket](https://github.com/rwf2/Rocket) | Rocket is a web framework with a focus on ease-of-use, expressability, and speed | 2025-12-28 |
 | 24683 | [tokio/axum](https://github.com/tokio-rs/axum) | Ergonomic and modular web framework built with Tokio, Tower, and Hyper | 2026-01-22 |
 | 24219 | [actix/actix-web](https://github.com/actix/actix-web) | A lightweight async web framework with websocket support | 2026-01-20 |
@@ -1995,18 +1996,19 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 11359 | [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) | an ergonomic HTTP Client. | 2026-01-20 |
 | 10215 | [seanmonstar/warp](https://github.com/seanmonstar/warp) [🦀](https://crates.io/crates/warp) | A super-easy, composable, web server framework for warp speeds. | 2025-10-20 |
 | 8290 | [vi/websocat](https://github.com/vi/websocat) | CLI for interacting with WebSockets, with functionality of Netcat, Curl and Socat. | 2025-12-27 |
-| 7471 | [ducaale/xh](https://github.com/ducaale/xh) [🦀](https://crates.io/crates/xh) | Friendly and fast tool for sending HTTP requests | 2026-01-14 |
+| 7472 | [ducaale/xh](https://github.com/ducaale/xh) [🦀](https://crates.io/crates/xh) | Friendly and fast tool for sending HTTP requests | 2026-01-14 |
 | 6116 | [Iron](https://github.com/iron/iron) | A middleware-based server framework | 2021-03-12 |
 | 5931 | [Juniper](https://github.com/graphql-rust/juniper) | GraphQL server library | 2026-01-23 |
-| 5374 | [serenity-rs/serenity](https://github.com/serenity-rs/serenity) [🦀](https://crates.io/crates/serenity) | A library for the Discord API | 2025-12-20 |
+| 5375 | [serenity-rs/serenity](https://github.com/serenity-rs/serenity) [🦀](https://crates.io/crates/serenity) | A library for the Discord API | 2025-12-20 |
 | 4329 | [poem-web/poem](https://github.com/poem-web/poem) | A full-featured and easy-to-use web framework. | 2026-01-21 |
-| 4151 | [Salvo](https://github.com/salvo-rs/salvo) | an easy to use webframework base on hyper and tokio. | 2026-01-23 |
+| 4152 | [Salvo](https://github.com/salvo-rs/salvo) | an easy to use webframework base on hyper and tokio. | 2026-01-23 |
 | 3988 | [teloxide/teloxide](https://github.com/teloxide/teloxide) | An elegant Telegram bots framework | 2025-10-14 |
 | 3837 | [seed](https://github.com/seed-rs/seed) | A framework for creating web apps | 2025-01-11 |
 | 3619 | [async-graphql](https://github.com/async-graphql/async-graphql) | A GraphQL server library | 2026-01-22 |
 | 3610 | [sozu-proxy/sozu](https://github.com/sozu-proxy/sozu) [🦀](https://crates.io/crates/sozu) | A HTTP reverse proxy. | 2025-11-30 |
 | 3606 | [Utoipa](https://github.com/juhaku/utoipa) [🦀](https://crates.io/crates/utoipa) | Simple, Fast, Code first and Compile time generated OpenAPI documentation | 2025-11-24 |
 | 3494 | [osohq/oso](https://github.com/osohq/oso) [🦀](https://crates.io/crates/oso) | A policy engine for authorization that's embedded in your application. | 2025-02-26 |
+| 3459 | [stdweb](https://github.com/koute/stdweb) [🦀](https://crates.io/crates/stdweb) | A standard library for the client-side Web | 2019-10-10 |
 | 3081 | [svix/svix-webhooks](https://github.com/svix/svix-webhooks) [🦀](https://crates.io/crates/svix) | A library for sending webhooks and verifying signatures. | 2026-01-23 |
 | 3048 | [Nickel](https://github.com/nickel-org/nickel.rs) | inspired by Express | 2022-05-06 |
 | 2309 | [rust-scraper/scraper](https://github.com/rust-scraper/scraper) [🦀](https://crates.io/crates/scraper) | HTML parsing and querying with CSS selectors. | 2026-01-23 |
@@ -2020,6 +2022,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 1237 | [graphql-client](https://github.com/graphql-rust/graphql-client) | Typed, correct GraphQL requests and responses. | 2026-01-15 |
 | 1229 | [tomaka/rouille](https://github.com/tomaka/rouille) | Web framework | 2025-06-17 |
 | 1125 | [tiny-http](https://github.com/tiny-http/tiny-http) | Low level HTTP server library | 2023-05-16 |
+| 1114 | [cargo-web](https://github.com/koute/cargo-web) [🦀](https://crates.io/crates/cargo-web) | A Cargo subcommand for the client-side Web | 2019-08-20 |
 | 1102 | [Zino](https://github.com/zino-rs/zino) | Next-generation framework for composable applications | 2026-01-20 |
 | 1099 | [alexcrichton/curl-rust](https://github.com/alexcrichton/curl-rust) | libcurl bindings | 2026-01-12 |
 | 1014 | [utkarshkukreti/select.rs](https://github.com/utkarshkukreti/select.rs) [🦀](https://crates.io/crates/select) | A library to extract useful data from HTML documents, suitable for web scraping. | 2025-03-19 |
@@ -2047,21 +2050,18 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 113 | [Anansi](https://github.com/saru-tora/anansi) | A simple full-stack web framework | 2023-04-05 |
 | 100 | [tinyweb](https://github.com/LiveDuo/tinyweb) | A minimal Rust web framework for wasm in 800 lines of code | 2025-04-25 |
 | 92 | [Saphir](https://github.com/richerarc/saphir) | A progressive web framework with low-level control, without the pain. | 2025-03-26 |
+| 68 | [branca](https://github.com/return/branca) [🦀](https://crates.io/crates/branca) | Implementation of Branca for Authenticated and Encrypted API tokens. | 2025-11-28 |
 | 66 | [edezhic/prest](https://github.com/edezhic/prest) [🦀](https://crates.io/crates/prest) | Progressive RESTful framework aimed to simplify fullstack development | 2025-06-29 |
 | 62 | [tu6ge/valitron](https://github.com/tu6ge/valitron) [🦀](https://crates.io/crates/valitron) | An ergonomic, functional and configurable validator | 2025-03-26 |
 | 59 | [FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs) [🦀](https://crates.io/crates/mdblog) | Static site generator from markdown files. | 2024-08-12 |
 | 58 | [ratchet](https://github.com/graphform/ratchet) [🦀](https://crates.io/crates/ratchet_rs) | Ratchet is a fast, lightweight and fully asynchronous implementation of the WebSocket protocol with support for extensions and Deflate. | 2024-09-30 |
 | 57 | [leven-the-blog/leven](https://github.com/leven-the-blog/leven) [🦀](https://crates.io/crates/leven) | A simple, parallelized blog generator. | 2018-11-26 |
 | 55 | [iddm/urlshortener-rs](https://github.com/iddm/urlshortener-rs) [🦀](https://crates.io/crates/urlshortener) | A very simple urlshortener library. | 2024-05-14 |
-| - | [branca](https://github.com/return/branca) [🦀](https://crates.io/crates/branca) | Implementation of Branca for Authenticated and Encrypted API tokens. | - |
-| - | [cargo-web](https://github.com/koute/cargo-web) [🦀](https://crates.io/crates/cargo-web) | A Cargo subcommand for the client-side Web | - |
 | - | [DoumanAsh/yukikaze](https://gitlab.com/Douman/yukikaze) [🦀](https://crates.io/crates/yukikaze) | Beautiful and elegant Yukikaze is little HTTP client library based on hyper. | - |
 | - | [pwoolcoc/soup](https://gitlab.com/pwoolcoc/soup) [🦀](https://crates.io/crates/soup) | A library similar to Python's BeautifulSoup, designed to enable quick and easy manipulation and querying of HTML documents. | - |
 | - | [pyrossh/rust-embed](https://git.sr.ht/~pyrossh/rust-embed) [🦀](https://crates.io/crates/rust-embed) | A macro to embed static assets into the rust binary | - |
-| - | [stdweb](https://github.com/koute/stdweb) [🦀](https://crates.io/crates/stdweb) | A standard library for the client-side Web | - |
 | - | [tbot](https://gitlab.com/SnejUgal/tbot) [🦀](https://crates.io/crates/tbot) | [ tbot ] - Make cool Telegram bots easily | - |
 | - | [WebSocket](https://datatracker.ietf.org/doc/rfc6455/) |  | - |
-| - | [yew](https://github.com/yewstack/yew) [🦀](https://crates.io/crates/yew) | A framework for making client web apps | - |
 
 ## Registries
 
