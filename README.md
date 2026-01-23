@@ -165,7 +165,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 132 | [nicohman/eidolon](https://github.com/nicohman/eidolon) | A steam and drm-free game registry and launcher for linux and macosx | 2019-10-20 |
 | 118 | [Herd](https://github.com/imjacobclark/Herd) | an experimental HTTP load testing application | 2023-02-23 |
 | 51 | [rkik](https://github.com/aguacero7/rkik) [🦀](https://crates.io/crates/rkik) | CLI tool designed for stateless and passive NTP inspection, just as dig or ping are for DNS and ICMP. It supports async requests and continuous monitoring. | 2026-01-22 |
-| - | [Arti](https://gitlab.torproject.org/tpo/core/arti) [🦀](https://crates.io/crates/arti) | An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) | - |
+| - | [Arti](https://gitlab.torproject.org/tpo/core/arti.git/) [🦀](https://crates.io/crates/arti) | An implementation of Tor. (So far, it's a not-very-complete client. But watch this space!) | - |
 | - | [MaidSafe](https://github.com/maidsafe) | A decentralized platform. | - |
 | - | [Pijul](https://pijul.org) | A patch-based distributed version control system | - |
 
@@ -1011,8 +1011,8 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 19 | [bitfield/cargo-testdox](https://github.com/bitfield/cargo-testdox) [🦀](https://crates.io/crates/cargo-testdox) | Turns your Rust tests into docs | 2025-11-25 |
 | 4 | [bcheidemann/fixtures-rs](https://github.com/bcheidemann/fixtures-rs) [🦀](https://crates.io/crates/fixtures) | A proc macro for generating tests from fixtures using glob patterns | 2025-10-23 |
 | 2 | [googletest-json-serde](https://github.com/chege/googletest-json-serde) [🦀](https://crates.io/crates/googletest-json-serde) | A collection of JSON matchers for googletest-rust, supporting paths, arrays, and objects. | 2026-01-21 |
-| - | [proptest](https://hypothesis.works/) [🦀](https://crates.io/crates/proptest) | property testing framework inspired by the Hypothesis framework for Python | - |
-| - | [quickcheck](https://wiki.haskell.org/Introduction_to_QuickCheck1) [🦀](https://crates.io/crates/quickcheck) | A Rust implementation of QuickCheck | - |
+| - | [proptest](https://github.com/proptest-rs/proptest) [🦀](https://crates.io/crates/proptest) | property testing framework inspired by the Hypothesis framework for Python | - |
+| - | [quickcheck](https://github.com/BurntSushi/quickcheck) [🦀](https://crates.io/crates/quickcheck) | A Rust implementation of QuickCheck | - |
 
 ### Transpiling
 
@@ -1234,13 +1234,14 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | Stars | Name | Description | Last Commit |
 | ---: | --- | --- | --- |
 | 769 | [statrs-dev/statrs](https://github.com/statrs-dev/statrs) | Robust statistical computation library | 2025-11-17 |
+| 663 | [Axect/Peroxide](https://github.com/Axect/Peroxide) | Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust | 2025-07-24 |
 | 175 | [cpmech/russell](https://github.com/cpmech/russell) | Rust Scientific Library for numerical mathematics, ordinary differential equations, special math functions, high-performance (sparse) linear algebra | 2025-03-18 |
+| 170 | [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) | OpenCL bindings | 2017-01-08 |
 | 93 | [Nonanti/mathcore](https://github.com/Nonanti/mathcore) [🦀](https://crates.io/crates/mathcore) | Symbolic mathematics library with CAS capabilities. Supports differentiation, integration, equation solving, and arbitrary precision arithmetic | 2025-09-20 |
 | 76 | [Ryan-D-Gast/differential-equations](https://github.com/Ryan-D-Gast/differential-equations) | A high-performance library for numerically solving differential equations | 2025-11-16 |
 | - | [argmin-rs/argmin](https://github.com/argmin-rs/argmin) [🦀](https://crates.io/crates/argmin) | Optimization library | - |
 | - | [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) | Arrayfire bindings | - |
 | - | [autumnai/collenchyma](https://github.com/autumnai/collenchyma) | An extensible, pluggable, backend-agnostic framework for parallel, high-performance computations on CUDA, OpenCL and common host CPU. | - |
-| - | [Axect/Peroxide](https://github.com/Axect/Peroxide) | Rust numeric library containing linear algebra, numerical analysis, statistics and machine learning tools in pure rust | - |
 | - | [BLAS](https://en.wikipedia.org/wiki/Basic_Linear_Algebra_Subprograms) | [ blas ] | - |
 | - | [calebwin/emu](https://github.com/calebwin/emu) | A language for GPGPU numerical computing | - |
 | - | [dimforge/nalgebra](https://github.com/dimforge/nalgebra) | low-dimensional linear algebra library | - |
@@ -1249,7 +1250,6 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | - | [GSL](http://www.gnu.org/software/gsl/) |  | - |
 | - | [GuillaumeGomez/rust-GSL](https://github.com/GuillaumeGomez/rust-GSL) | GSL bindings | - |
 | - | [LAPACK](https://en.wikipedia.org/wiki/LAPACK) |  | - |
-| - | [luqmana/rust-opencl](https://github.com/luqmana/rust-opencl) | OpenCL bindings | - |
 | - | [mikkyang/rust-blas](https://github.com/mikkyang/rust-blas) | BLAS bindings | - |
 | - | [stainless-steel/lapack](https://github.com/blas-lapack-rs/lapack) | LAPACK bindings | - |
 
@@ -1642,6 +1642,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 5406 | [gfx-rs/gfx](https://github.com/gfx-rs/gfx) | A high-performance, bindless graphics API. | 2021-08-03 |
 | 4992 | [vulkano](https://github.com/vulkano-rs/vulkano) [🦀](https://crates.io/crates/vulkano) | [ vulkano ] - Safe and rich Rust wrapper around the Vulkan API | 2026-01-14 |
 | 3603 | [glium/glium](https://github.com/glium/glium) | safe OpenGL wrapper. | 2025-08-19 |
+| 2069 | [glutin](https://github.com/rust-windowing/glutin) [🦀](https://crates.io/crates/glutin) | Alternative to GLFW | 2025-11-03 |
 | 2031 | [J-F-Liu/lopdf](https://github.com/J-F-Liu/lopdf) | PDF document manipulation | 2026-01-12 |
 | 1033 | [fschutt/printpdf](https://github.com/fschutt/printpdf) | PDF writing library | 2026-01-12 |
 | 731 | [gl-rs](https://github.com/rust-windowing/gl-rs) | An OpenGL function pointer loader | 2025-11-25 |
@@ -1651,7 +1652,6 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 149 | [kaj/rust-pdf](https://github.com/kaj/rust-pdf) | Generating PDF files in pure Rust | 2022-02-07 |
 | 20 | [bastibense/libharu_ng](https://github.com/bastibense/libharu_ng) [🦀](https://crates.io/crates/libharu_ng) | Easily generate PDFs from your Rust app. | 2024-11-16 |
 | - | [erupt](https://gitlab.com/Friz64/erupt) [🦀](https://crates.io/crates/erupt) | [ erupt ] - | - |
-| - | [glutin](https://www.glfw.org/) [🦀](https://crates.io/crates/glutin) | Alternative to GLFW | - |
 | - | [opengl](https://crates.io/keywords/opengl) | [ opengl ] | - |
 | - | [Vulkan](https://www.vulkan.org/) | [ vulkan ] | - |
 
@@ -1807,7 +1807,7 @@ All repositories are sorted by star count. Stars are updated every day automatic
 | 33 | [mattnenterprise/rust-pop3](https://github.com/mattnenterprise/rust-pop3) [🦀](https://crates.io/crates/pop3) | A POP3 client | 2020-12-20 |
 | 15 | [mattnenterprise/rust-nntp](https://github.com/mattnenterprise/rust-nntp) [🦀](https://crates.io/crates/nntp) | an NNTP client | 2017-06-27 |
 | - | [neachdainn/nng-rs](https://gitlab.com/neachdainn/nng-rs) [🦀](https://crates.io/crates/nng) | Nng (nanomsg v2) bindings | - |
-| - | [Thrussh](https://pijul.org/thrussh) [🦀](https://crates.io/crates/thrussh) | [ thrussh ] - an SSH library, backed by libsodium | - |
+| - | [Thrussh](https://nest.pijul.com/pijul/ssh) [🦀](https://crates.io/crates/thrussh) | [ thrussh ] - an SSH library, backed by libsodium | - |
 
 ### Parsing
 
